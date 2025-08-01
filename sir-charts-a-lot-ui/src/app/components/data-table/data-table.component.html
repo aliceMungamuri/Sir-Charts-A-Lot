@@ -1,0 +1,201 @@
+<div class="bg-white rounded-lg shadow-sm overflow-hidden">
+  <!-- Toolbar -->
+  <div *ngIf="enableFiltering || enableExport" class="p-4 border-b border-gray-200">
+    <div class="flex items-center justify-between gap-4">
+      <!-- Filter Input -->
+      <div *ngIf="enableFiltering" class="flex-1 max-w-md">
+        <div class="relative">
+          <input
+            type="text"
+            [(ngModel)]="filterValue"
+            (input)="applyFilter()"
+            placeholder="Search..."
+            class="w-full px-4 py-2 pl-10 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
+          />
+          <svg class="absolute left-3 top-2.5 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+      </div>
+      
+      <!-- Export Button -->
+      <button
+        *ngIf="enableExport"
+        (click)="exportToCSV()"
+        class="px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary-dark transition-colors flex items-center gap-2"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+        </svg>
+        Export CSV
+      </button>
+    </div>
+  </div>
+
+  <!-- Table Container -->
+  <div class="overflow-x-auto">
+    <table class="min-w-full divide-y divide-gray-200">
+      <!-- Header -->
+      <thead class="bg-gray-50">
+        <tr>
+          <th
+            *ngFor="let column of columns"
+            [style.width]="column.width"
+            class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider"
+            [class.cursor-pointer]="enableSorting && column.sortable"
+            [class.select-none]="enableSorting && column.sortable"
+            (click)="sort(column)"
+          >
+            <div class="flex items-center gap-1">
+              <span>{{ column.displayName }}</span>
+              <span *ngIf="enableSorting && column.sortable" class="text-gray-400">
+                {{ getSortIcon(column) }}
+              </span>
+            </div>
+          </th>
+        </tr>
+      </thead>
+      
+      <!-- Body -->
+      <tbody class="bg-white divide-y divide-gray-200">
+        <tr *ngFor="let row of displayedData" class="hover:bg-gray-50 transition-colors">
+          <td
+            *ngFor="let column of columns"
+            [ngClass]="getCellClass(row[column.key], column)"
+          >
+            <!-- Link type -->
+            <a
+              *ngIf="column.dataType === ColumnDataType.Link && row[column.key]"
+              [href]="row[column.key]"
+              target="_blank"
+              class="text-primary hover:text-primary-dark underline"
+            >
+              {{ formatCell(row[column.key], column) }}
+            </a>
+            
+            <!-- Boolean type -->
+            <span
+              *ngIf="column.dataType === ColumnDataType.Boolean"
+              [class.text-green-600]="row[column.key]"
+              [class.text-red-600]="!row[column.key]"
+              class="font-semibold"
+            >
+              {{ formatCell(row[column.key], column) }}
+            </span>
+            
+            <!-- All other types -->
+            <span *ngIf="column.dataType !== ColumnDataType.Link && column.dataType !== ColumnDataType.Boolean">
+              {{ formatCell(row[column.key], column) }}
+            </span>
+          </td>
+        </tr>
+        
+        <!-- No data row -->
+        <tr *ngIf="displayedData.length === 0">
+          <td [attr.colspan]="columns.length" class="px-6 py-4 text-center text-gray-500">
+            <div class="py-8">
+              <svg class="mx-auto h-12 w-12 text-gray-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 13h6m-3-3v6m-9 1V7a2 2 0 012-2h6l2 2h6a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"></path>
+              </svg>
+              <p>No data found</p>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Pagination -->
+  <div *ngIf="enablePagination && totalPages > 1" class="px-4 py-3 border-t border-gray-200 sm:px-6">
+    <div class="flex items-center justify-between">
+      <!-- Page size selector -->
+      <div class="flex items-center gap-2">
+        <label class="text-sm text-gray-700">Show</label>
+        <select
+          [(ngModel)]="pageSize"
+          (change)="changePageSize()"
+          class="px-3 py-1 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-primary"
+        >
+          <option *ngFor="let size of pageSizeOptions" [value]="size">{{ size }}</option>
+        </select>
+        <span class="text-sm text-gray-700">entries</span>
+      </div>
+      
+      <!-- Page info and navigation -->
+      <div class="flex items-center gap-4">
+        <!-- Info -->
+        <span class="text-sm text-gray-700">
+          Showing {{ (currentPage - 1) * pageSize + 1 }} to {{ Math.min(currentPage * pageSize, filteredData.length) }} of {{ filteredData.length }} results
+        </span>
+        
+        <!-- Navigation buttons -->
+        <nav class="flex gap-1">
+          <!-- First page -->
+          <button
+            (click)="changePage(1)"
+            [disabled]="currentPage === 1"
+            class="px-3 py-1 text-sm rounded-md transition-colors"
+            [class.bg-gray-100]="currentPage !== 1"
+            [class.hover:bg-gray-200]="currentPage !== 1"
+            [class.text-gray-400]="currentPage === 1"
+            [class.cursor-not-allowed]="currentPage === 1"
+          >
+            First
+          </button>
+          
+          <!-- Previous -->
+          <button
+            (click)="changePage(currentPage - 1)"
+            [disabled]="currentPage === 1"
+            class="px-3 py-1 text-sm rounded-md transition-colors"
+            [class.bg-gray-100]="currentPage !== 1"
+            [class.hover:bg-gray-200]="currentPage !== 1"
+            [class.text-gray-400]="currentPage === 1"
+            [class.cursor-not-allowed]="currentPage === 1"
+          >
+            Previous
+          </button>
+          
+          <!-- Page numbers -->
+          <button
+            *ngFor="let page of getPageNumbers()"
+            (click)="changePage(page)"
+            class="px-3 py-1 text-sm rounded-md transition-colors"
+            [class.bg-primary]="page === currentPage"
+            [class.text-white]="page === currentPage"
+            [class.bg-gray-100]="page !== currentPage"
+            [class.hover:bg-gray-200]="page !== currentPage"
+          >
+            {{ page }}
+          </button>
+          
+          <!-- Next -->
+          <button
+            (click)="changePage(currentPage + 1)"
+            [disabled]="currentPage === totalPages"
+            class="px-3 py-1 text-sm rounded-md transition-colors"
+            [class.bg-gray-100]="currentPage !== totalPages"
+            [class.hover:bg-gray-200]="currentPage !== totalPages"
+            [class.text-gray-400]="currentPage === totalPages"
+            [class.cursor-not-allowed]="currentPage === totalPages"
+          >
+            Next
+          </button>
+          
+          <!-- Last page -->
+          <button
+            (click)="changePage(totalPages)"
+            [disabled]="currentPage === totalPages"
+            class="px-3 py-1 text-sm rounded-md transition-colors"
+            [class.bg-gray-100]="currentPage !== totalPages"
+            [class.hover:bg-gray-200]="currentPage !== totalPages"
+            [class.text-gray-400]="currentPage === totalPages"
+            [class.cursor-not-allowed]="currentPage === totalPages"
+          >
+            Last
+          </button>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>

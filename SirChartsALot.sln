@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SirChartsALot.Api", "SirChartsALot.Api\SirChartsALot.Api.csproj", "{B6967206-2078-4607-94A8-1A8D01ABCF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SirChartsALot.Core", "SirChartsALot.Core\SirChartsALot.Core.csproj", "{01F69393-4E02-4C69-AF65-F38C4A1B430C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6967206-2078-4607-94A8-1A8D01ABCF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6967206-2078-4607-94A8-1A8D01ABCF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6967206-2078-4607-94A8-1A8D01ABCF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6967206-2078-4607-94A8-1A8D01ABCF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F69393-4E02-4C69-AF65-F38C4A1B430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F69393-4E02-4C69-AF65-F38C4A1B430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F69393-4E02-4C69-AF65-F38C4A1B430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F69393-4E02-4C69-AF65-F38C4A1B430C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740A6645-CD10-42F8-AB41-4B15D201B9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740A6645-CD10-42F8-AB41-4B15D201B9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740A6645-CD10-42F8-AB41-4B15D201B9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740A6645-CD10-42F8-AB41-4B15D201B9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

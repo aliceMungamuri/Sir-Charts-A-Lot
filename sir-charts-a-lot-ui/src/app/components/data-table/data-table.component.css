@@ -1,0 +1,45 @@
+/* Data Table Component - Uses Tailwind CSS classes in template */
+
+/* Additional conditional formatting classes that can be used */
+.text-success {
+  color: #16a34a;
+}
+
+.text-warning {
+  color: #ea580c;
+}
+
+.text-error {
+  color: #dc2626;
+}
+
+.bg-success-light {
+  background-color: #dcfce7;
+}
+
+.bg-warning-light {
+  background-color: #fed7aa;
+}
+
+.bg-error-light {
+  background-color: #fee2e2;
+}
+
+/* For responsive table on mobile */
+@media (max-width: 640px) {
+  .table-mobile-stack td {
+    display: block;
+    text-align: right;
+    padding-left: 50%;
+    position: relative;
+  }
+  
+  .table-mobile-stack td:before {
+    content: attr(data-label);
+    position: absolute;
+    left: 6px;
+    width: 45%;
+    text-align: left;
+    font-weight: bold;
+  }
+}

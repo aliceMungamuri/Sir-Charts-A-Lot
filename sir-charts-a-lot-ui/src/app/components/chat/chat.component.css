@@ -1,0 +1,25 @@
+/* Chat component styles */
+:host {
+  display: block;
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+}
+
+/* Ensure messages area fills available space */
+.messages-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Fix for empty messages area */
+.messages-content {
+  flex: 1;
+  min-height: 0;
+}
+
+/* Smooth scrolling for the messages container */
+.custom-scrollbar {
+  scroll-behavior: smooth;
+}

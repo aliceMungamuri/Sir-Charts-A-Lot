@@ -1,0 +1,57 @@
+<div class="text-response-container">
+  <!-- Single Value Response -->
+  <div *ngIf="textConfig.isSingleValue" class="single-value-container">
+    <div class="value-display">
+      <span class="main-value">{{ formattedContent }}</span>
+      <span class="unit" *ngIf="shouldShowUnit">
+        {{ textConfig.singleValueMetadata.unit }}
+      </span>
+    </div>
+    
+    <!-- Comparison Data -->
+    <div *ngIf="textConfig.singleValueMetadata?.comparison" 
+         class="comparison-container"
+         [ngClass]="getComparisonClass()">
+      <span class="comparison-icon">{{ getComparisonIcon() }}</span>
+      <span class="comparison-value">{{ formatComparison() }}</span>
+      <span class="comparison-text">vs previous period</span>
+    </div>
+    
+    <!-- Visual Indicator -->
+    <div *ngIf="textConfig.singleValueMetadata?.indicator" class="indicator">
+      {{ textConfig.singleValueMetadata.indicator }}
+    </div>
+  </div>
+  
+  <!-- Summary/Text Response -->
+  <div *ngIf="!textConfig.isSingleValue" class="text-content-container">
+    <!-- Plain Text -->
+    <p *ngIf="!textConfig.useMarkdown && textConfig.formatType !== TextFormatType.Summary" 
+       class="plain-text">
+      {{ formattedContent }}
+    </p>
+    
+    <!-- Markdown Content (rendered as HTML) -->
+    <div *ngIf="textConfig.useMarkdown" class="markdown-content" [innerHTML]="formattedContent">
+    </div>
+    
+    <!-- Summary with Highlights -->
+    <div *ngIf="textConfig.formatType === TextFormatType.Summary" class="summary-content">
+      <div class="summary-main">
+        <div *ngIf="textConfig.useMarkdown" [innerHTML]="formattedContent"></div>
+        <p *ngIf="!textConfig.useMarkdown">{{ formattedContent }}</p>
+      </div>
+      
+      <!-- Key Highlights -->
+      <div *ngIf="textConfig.highlights && textConfig.highlights.length > 0" class="highlights">
+        <h4 class="highlights-title">Key Insights:</h4>
+        <ul class="highlights-list">
+          <li *ngFor="let highlight of textConfig.highlights" class="highlight-item">
+            <span class="highlight-bullet">•</span>
+            {{ highlight }}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

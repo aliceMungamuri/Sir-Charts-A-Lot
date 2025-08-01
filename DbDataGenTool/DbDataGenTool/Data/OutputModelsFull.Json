@@ -1,0 +1,3358 @@
+[
+  {
+    "userId": "449feb48-0be2-40a3-9030-51429100691f",
+    "contactInformation": {
+      "userId": "449feb48-0be2-40a3-9030-51429100691f",
+      "firstName": "asdasdf",
+      "lastName": "sdfasdf",
+      "address": "sdfasf, Bon Secour, AL 36511",
+      "email": "vistestmainnew@yopmail.com",
+      "phone": "4123123123"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "449feb48-0be2-40a3-9030-51429100691f",
+        "formType": "W-2",
+        "incomeSource": "ewqerwe",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "449feb48-0be2-40a3-9030-51429100691f",
+        "formType": "1099-B",
+        "incomeSource": "1353435432904",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "449feb48-0be2-40a3-9030-51429100691f",
+        "formType": "1099-B",
+        "incomeSource": "Charles Schwab \u0026 Co., Inc.",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "449feb48-0be2-40a3-9030-51429100691f",
+        "formType": "1099-B",
+        "incomeSource": "Fidelity Investments",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "449feb48-0be2-40a3-9030-51429100691f",
+        "formType": "1099-INT",
+        "incomeSource": "",
+        "incomeAmount": 0
+      }
+    ],
+    "adjustedGrossIncome": -14600,
+    "signed7216": false,
+    "summary": "The filer, ASDASDF SDFASDF (email: vistestmainnew@yopmail.com, phone: 4123123123), resides at sdfasf, Bon Secour, AL 36511. Filing status for tax year 2025 is Single. The taxpayer reported forms W-2 and 1099-B (including payers: 1353435432904, Charles Schwab \u0026 Co., Inc., and Fidelity Investments) and a 1099-INT, but all income values appear to be zero. The AGI (Adjusted Gross Income) for the year is negative ($-14,600), and the user did not sign the IRS 7216 consent. The user has paid for the tax product, and the selected product SKU is TCF.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+    "contactInformation": {
+      "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+      "firstName": "krishna",
+      "lastName": "menon",
+      "address": "xdcvsfvg, Kansas City, MO 64111",
+      "email": "Test_dmob_1@hrblock.testinator.com",
+      "phone": "5746745656"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "W-2",
+        "incomeSource": "adfsdf",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "W-2",
+        "incomeSource": "qewer",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "1099-NEC",
+        "incomeSource": "Form1099NEC",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "1099-MISC",
+        "incomeSource": "Other",
+        "incomeAmount": 100
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "Schedule C",
+        "incomeSource": "HOBBY",
+        "incomeAmount": 10000
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "Schedule C",
+        "incomeSource": "PRIZES AND AWARDS",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "0c7cb1c1-42cd-45fa-a699-e47bed4bfccc",
+        "formType": "Schedule C",
+        "incomeSource": "CANCELLATION OF DEBT",
+        "incomeAmount": 1000
+      }
+    ],
+    "adjustedGrossIncome": 31000,
+    "signed7216": false,
+    "summary": "Krishna Menon is a single filer living at xdcvsfvg, Kansas City, MO 64111. At age 25, Krishna reported an adjusted gross income of $31,000, primarily from other income sources such as hobby income, prizes/awards, and a 1099-NEC, but has no recorded W-2 earnings for the year 2025. The provided contact information includes email Test_dmob_1@hrblock.testinator.com and phone 5746745656. No signed 7216 consent is on file. Krishna purchased the TCD (OPP) tax product and is a full-year Missouri resident.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "906be0f9-ac2b-4ca3-a638-8ebfbf96fcac",
+    "contactInformation": {
+      "userId": "906be0f9-ac2b-4ca3-a638-8ebfbf96fcac",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "STmopAR0904@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "This user (ID: 906be0f9-ac2b-4ca3-a638-8ebfbf96fcac, email: STmopAR0904@hrblock.testinator.com) appears to not have any reported income forms or AGI for the current year and has signed form 7216 as indicated in their user data. The available contact details include an email address, but other personal details such as name or address are not provided.",
+    "taxType": "OPP",
+    "hasPaid": false
+  },
+  {
+    "userId": "255f3c7a-329e-4804-a231-3db4105eb029",
+    "contactInformation": {
+      "userId": "255f3c7a-329e-4804-a231-3db4105eb029",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "gm_qaTXFed_1@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with ID 255f3c7a-329e-4804-a231-3db4105eb029, whose account email is gm_qaTXFed_1@hrblock.testinator.com, is filing a tax return for the year 2025. No income forms (such as W-2, K1, Schedule C, or 1099) could be identified, and there is no available adjusted gross income or details on their filing status. The information does not indicate a signed 7216 consent. The user has paid for the relevant tax product.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "bee49ec7-85fb-4543-b583-0b7d61b345af",
+    "contactInformation": {
+      "userId": "bee49ec7-85fb-4543-b583-0b7d61b345af",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "navigationtest_testhrb_05162501@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with ID bee49ec7-85fb-4543-b583-0b7d61b345af has registered an account using the email navigationtest_testhrb_05162501@hrblock.testinator.com for the TCD tax product. There are no income forms, address, or personally identifying information besides email available in the provided data, nor any indication of Adjusted Gross Income. The user did not sign form 7216 based on current details.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "b79fb183-fd50-41cf-ba4b-4095ecbb24e2",
+    "contactInformation": {
+      "userId": "b79fb183-fd50-41cf-ba4b-4095ecbb24e2",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "txoty24fw2_dmob_0519@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 10000,
+    "signed7216": true,
+    "summary": "The user with ID b79fb183-fd50-41cf-ba4b-4095ecbb24e2 and email txoty24fw2_dmob_0519@hrblock.testinator.com filed a tax return for the year 2025. No specific contact name, address, or phone number was provided, and there are no income forms listed in the available data. The user\u0027s adjusted gross income (AGI) from the prior year was $10,000. The user has signed consent form 7216, and the product has been paid for.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+    "contactInformation": {
+      "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+      "firstName": "John",
+      "lastName": "Test",
+      "address": "123 main, Kansas City MO 64155",
+      "email": "spencer.palmeter_testhrb_TY25Staging1@hrblock.testinator.com",
+      "phone": "8165104033"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+        "formType": "W-2",
+        "incomeSource": "Employer",
+        "incomeAmount": 40000
+      },
+      {
+        "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+        "formType": "1099-INT",
+        "incomeSource": "Test",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+        "formType": "1099-INT",
+        "incomeSource": "Joint Test",
+        "incomeAmount": 700
+      },
+      {
+        "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+        "formType": "1099-INT",
+        "incomeSource": "Spouse Test",
+        "incomeAmount": 600
+      },
+      {
+        "userId": "73c1b168-fbdc-4d68-8a76-85bc0266dbfc",
+        "formType": "1099-DIV",
+        "incomeSource": "Joint Test",
+        "incomeAmount": 50
+      }
+    ],
+    "adjustedGrossIncome": 42350,
+    "signed7216": true,
+    "summary": "John Test and spouse Jane Test are married filing jointly and reside in Kansas City, Missouri. John is 25, works as a software engineer, and Jane is 26. They have a combined AGI of $42,350, with the primary income from John\u0027s W-2 wages of $40,000 and additional investment income through joint and individual 1099-INT and 1099-DIV forms. Their address is 123 main, Kansas City MO 64155 and phone number is 8165104033. The couple\u0027s contact email is spencer.palmeter_testhrb_TY25Staging1@hrblock.testinator.com. Both are US citizens and residents of Missouri.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "7bef939c-7bb1-4abe-a570-f8cf09d1b179",
+    "contactInformation": {
+      "userId": "7bef939c-7bb1-4abe-a570-f8cf09d1b179",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "NJMilRes_QA24@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 120200,
+    "signed7216": true,
+    "summary": "The user with ID 7bef939c-7bb1-4abe-a570-f8cf09d1b179, registered under the email NJMilRes_QA24@hrblock.testinator.com, has an Adjusted Gross Income of $120,200 for tax year 2025. There is no filing status or income form information provided in the given tax object model, and the user has signed the 7216 consent form. The user\u0027s primary contact information is limited to their email address.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "b7dd3b84-7138-40c1-9e61-4da5400c7c0b",
+    "contactInformation": {
+      "userId": "b7dd3b84-7138-40c1-9e61-4da5400c7c0b",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "TY25Staging_4499431_F2210.0527@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 28450,
+    "signed7216": true,
+    "summary": "This user, with user ID b7dd3b84-7138-40c1-9e61-4da5400c7c0b, began their 2025 US 1040 tax return with HR Block. Their email is TY25Staging_4499431_F2210.0527@hrblock.testinator.com. The system shows a prior year Adjusted Gross Income (AGI) of $28,450. However, no income forms (such as W-2s, 1099s, K-1s, or Schedule C) could be identified in the tax object model. The user has signed consent for 7216 disclosure. Key personal contact information such as name, address, and phone number is not present in the current dataset.",
+    "taxType": "OPP",
+    "hasPaid": false
+  },
+  {
+    "userId": "e74d3cb3-5904-4de0-ad18-745931ca24db",
+    "contactInformation": {
+      "userId": "e74d3cb3-5904-4de0-ad18-745931ca24db",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "ratz_test16@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 4000,
+    "signed7216": false,
+    "summary": "The user with ID e74d3cb3-5904-4de0-ad18-745931ca24db and email ratz_test16@hrblock.testinator.com appears to have filed a return for tax year 2025. Contact data is limited, but their prior year AGI was $4,000. No specific income forms (W-2, K-1, Schedule C, or 1099 types) were found in the provided data, and there is no evidence they signed the 7216 consent. All extracted information was inferred from the digital and filing data objects, which are somewhat sparse.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "cc653aed-e118-4319-a394-0af28d623d6b",
+    "contactInformation": {
+      "userId": "cc653aed-e118-4319-a394-0af28d623d6b",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "TY24F8582_0110_0530@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 75000,
+    "signed7216": true,
+    "summary": "This user, with TaxReturnGuid cc653aed-e118-4319-a394-0af28d623d6b and email TY24F8582_0110_0530@hrblock.testinator.com, has an adjusted gross income (AGI) of $75,000. There are no income form details present in the provided data. The user has signed form 7216. Filing status and contact name/address information are not specified.",
+    "taxType": "OPP",
+    "hasPaid": false
+  },
+  {
+    "userId": "14b89877-c8c9-4f6d-97a8-7e1135527427",
+    "contactInformation": {
+      "userId": "14b89877-c8c9-4f6d-97a8-7e1135527427",
+      "firstName": "Suheb",
+      "lastName": "A",
+      "address": "wdhu, New York, NY 10009",
+      "email": "ty240611_dmob_25@hrblock.testinator.com",
+      "phone": "8434783276"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "14b89877-c8c9-4f6d-97a8-7e1135527427",
+        "formType": "W-2",
+        "incomeSource": "DWD",
+        "incomeAmount": 25445
+      }
+    ],
+    "adjustedGrossIncome": 25445,
+    "signed7216": false,
+    "summary": "Suheb A is a single filer residing in New York, NY. For the 2025 tax year, their primary income source was a W-2 from employer DWD, with wages totaling $25,445 and AGI matching this amount. The taxpayer is 35 years old, has no spouse or dependents, and used the standard deduction. They provided a valid email and phone number, and have opted out of consent under section 7216. The product has been paid for and their return indicates a refund situation.",
+    "taxType": "TCL",
+    "hasPaid": true
+  },
+  {
+    "userId": "d5352b33-7cd8-43d6-97cc-f44d3463ed70",
+    "contactInformation": {
+      "userId": "d5352b33-7cd8-43d6-97cc-f44d3463ed70",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "Skip2FA_FT_dmob_f321qs@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 58000,
+    "signed7216": false,
+    "summary": "The user with ID d5352b33-7cd8-43d6-97cc-f44d3463ed70 and email address Skip2FA_FT_dmob_f321qs@hrblock.testinator.com has an adjusted gross income of $58,000 for the 2025 tax year. No specific income forms (W-2s, K1s, Schedule C, or 1099s) are listed, and there is currently no contact address or phone number provided. The user has not signed the IRS 7216 consent.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "66d86ed7-404d-4dc5-8c87-a74db664b9f7",
+    "contactInformation": {
+      "userId": "66d86ed7-404d-4dc5-8c87-a74db664b9f7",
+      "firstName": "Schedule",
+      "lastName": "B",
+      "address": "4400 Main, Kansas City, MO 64111",
+      "email": "TAT_dmob_dcaptcha_061625_161841@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "66d86ed7-404d-4dc5-8c87-a74db664b9f7",
+        "formType": "W-2",
+        "incomeSource": "Job",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "66d86ed7-404d-4dc5-8c87-a74db664b9f7",
+        "formType": "1099-INT",
+        "incomeSource": "A",
+        "incomeAmount": 4023
+      },
+      {
+        "userId": "66d86ed7-404d-4dc5-8c87-a74db664b9f7",
+        "formType": "1099-DIV",
+        "incomeSource": "AA",
+        "incomeAmount": 399
+      }
+    ],
+    "adjustedGrossIncome": 24322,
+    "signed7216": false,
+    "summary": "The user Schedule B filed a Single tax return and lives in Kansas City, MO. Their contact email is TAT_dmob_dcaptcha_061625_161841@hrblock.testinator.com and their phone number is 8165551212. Their primary income forms are a W-2 from Job, 1099-INT from A, and 1099-DIV from AA, with a prior year AGI of $24,322. The user has not signed consent form 7216. They have paid for their product and their past filing status is Single.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "3a968517-c632-4f9a-a079-6baec65c71f2",
+    "contactInformation": {
+      "userId": "3a968517-c632-4f9a-a079-6baec65c71f2",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "TXOFY26F1099clergy_dmob_0617@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "This user, with User ID 3a968517-c632-4f9a-a079-6baec65c71f2, started their 2025 tax return using the email TXOFY26F1099clergy_dmob_0617@hrblock.testinator.com. There is no detailed contact address or income forms reported in the data. The AGI is $0, and the user consented to 7216. Basic user profile fields are present, although no specific income or filing status is provided.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "0822cede-ee09-43a1-b9b5-76e86f9f7ea1",
+    "contactInformation": {
+      "userId": "0822cede-ee09-43a1-b9b5-76e86f9f7ea1",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "anon@nodomain.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "The user, identified by user ID 0822cede-ee09-43a1-b9b5-76e86f9f7ea1 and email anon@nodomain.com, has a tax profile for the 2025 tax year. No filer name, address, or income forms (such as W-2, K-1, 1099, or Schedule C) were found in the provided data. There is no recorded adjusted gross income. The user has signed 7216 consent, and their current product selection type is TCF (as per user data XML).",
+    "taxType": "TCF",
+    "hasPaid": false
+  },
+  {
+    "userId": "c256ea3e-ab05-43f3-a9bf-1c79c067af40",
+    "contactInformation": {
+      "userId": "c256ea3e-ab05-43f3-a9bf-1c79c067af40",
+      "firstName": "rani",
+      "lastName": "r",
+      "address": "3-146 Mission, KS 66202",
+      "email": "reddy.rani_testhrb_dmob_417@hrblock.testinator.com",
+      "phone": "8436722999"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "c256ea3e-ab05-43f3-a9bf-1c79c067af40",
+        "formType": "W-2",
+        "incomeSource": "Rani",
+        "incomeAmount": 4000
+      }
+    ],
+    "adjustedGrossIncome": 4000,
+    "signed7216": true,
+    "summary": "Rani R is a single filer residing at 3-146 Mission, KS 66202. For the 2025 tax year, Rani reported wages from a W-2 in the amount of $4,000, which comprises their total adjusted gross income (AGI). Rani is 29 years old, not a student, and is not claimed as a dependent. The only income reported was employment income, with no Schedule C, K-1, or 1099 income present. Rani has provided all necessary consents, including the signed IRS 7216 consent, and has paid for the selected H\u0026R Block tax product. Contact information for Rani includes the email reddy.rani_testhrb_dmob_417@hrblock.testinator.com and phone 8436722999.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "443238e8-d690-4688-81ad-bdc70edb884a",
+    "contactInformation": {
+      "userId": "443238e8-d690-4688-81ad-bdc70edb884a",
+      "firstName": "rani",
+      "lastName": "r",
+      "address": "3-146, Mission, KS 66202",
+      "email": "reddy.rani_testhrb_dmob_495@hrblock.testinator.com",
+      "phone": "8436572345"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [],
+    "adjustedGrossIncome": -14600,
+    "signed7216": true,
+    "summary": "The user, Rani R, is a 29-year-old single tax filer residing at 3-146, Mission, KS 66202. They have an adjusted gross income of -$14,600 for tax year 2025 and have completed the necessary consent form 7216. There are no reported income forms such as W-2s, K1s, Schedule C, or 1099 forms in the current data. The user has paid for the selected product and is using an online DIY channel for their tax preparation. Their primary contact methods are the provided phone number and email address.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "9ff653da-072b-4af4-9210-145edaa7ec1e",
+    "contactInformation": {
+      "userId": "9ff653da-072b-4af4-9210-145edaa7ec1e",
+      "firstName": "ratheesh",
+      "lastName": "pg",
+      "address": "kca APT 11, Atchison, KS 66002",
+      "email": "ratz_test14@hrblock.testinator.com",
+      "phone": "9895497377"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "9ff653da-072b-4af4-9210-145edaa7ec1e",
+        "formType": "W-2",
+        "incomeSource": "Ratz",
+        "incomeAmount": 4000
+      }
+    ],
+    "adjustedGrossIncome": 4000,
+    "signed7216": false,
+    "summary": "The taxpayer, Ratheesh PG, is a single filer residing in Atchison, Kansas. The only reported income for tax year 2025 is a W-2 from employer \u0027Ratz\u0027 with $4000 in wages. The taxpayer\u0027s AGI is $4000. The taxpayer used H\u0026R Block\u0027s online product (sku: TCF), has paid for the product, and their contact details are ratz_test14@hrblock.testinator.com and (989) 549-7377.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "17f5784f-946f-4f01-9ef9-f03bd5300307",
+    "contactInformation": {
+      "userId": "17f5784f-946f-4f01-9ef9-f03bd5300307",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "_dcaptcha_Skip2FA_QE_dmob_qejvQEJVPL@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "Joint",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with ID 17f5784f-946f-4f01-9ef9-f03bd5300307 and email _dcaptcha_Skip2FA_QE_dmob_qejvQEJVPL@hrblock.testinator.com has a filing status of Joint. There are no income forms or AGI reported in the provided data, and there is no record of the user signing form 7216. Contact details such as name and address are not available.",
+    "taxType": "TCD",
+    "hasPaid": false
+  },
+  {
+    "userId": "0b3c595e-5e77-4ed8-a373-a50abcfca2af",
+    "contactInformation": {
+      "userId": "0b3c595e-5e77-4ed8-a373-a50abcfca2af",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "bonnie.priest_testhrb_TY25Sche0101_0519_dmob_@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "Joint",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with email bonnie.priest_testhrb_TY25Sche0101_0519_dmob_@hrblock.testinator.com is filing a joint tax return for the 2025 tax year. The currently provided data does not include specific details on income forms or tax amounts. The contact information for the user includes the linked email address, but no other specific personal details such as name or address are present.",
+    "taxType": "TCF",
+    "hasPaid": false
+  },
+  {
+    "userId": "690e0174-5e76-4aeb-b673-45edc925ca82",
+    "contactInformation": {
+      "userId": "690e0174-5e76-4aeb-b673-45edc925ca82",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "690e0174-5e76-4aeb-b673-45edc925ca82",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer, Lanuage Test, is a single filer residing at 1 Main, Austin, TX 73301. Their 2025 return shows only W-2 wage income from HR Block totaling $20,000, with no other reported sources such as K-1, Schedule C, or 1099 forms. The adjusted gross income is $20,000 and the user is 31 years old. Spanish is their indicated language preference. The user signed all required consents except the 7216 disclosure. Tax has been paid for the product, and the selected tax product type is TCF. There are no dependents reported, and the taxpayer is a US citizen who cannot be claimed as a dependent by others.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "68aa580c-7ffd-433f-af4b-dfba763ee38c",
+    "contactInformation": {
+      "userId": "68aa580c-7ffd-433f-af4b-dfba763ee38c",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "68aa580c-7ffd-433f-af4b-dfba763ee38c",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "Lanuage Test, filing as Single for tax year 2025, had wages totaling $20,000 from HR Block, as reported on a W-2. The taxpayer is a resident of Texas, age 31 at the time of filing, with contact email TY25SchLEP0101SSpain_0521_@hrblock.testinator.com and phone 8165551212. The adjusted gross income for the return is $20,000. No Schedule C, K-1, or 1099 income forms were reported for this tax year. The user did not sign the 7216 consent and has paid for the tax product (per user data).",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "352e6cbe-f86f-46ac-bc57-ba55b3a6a97a",
+    "contactInformation": {
+      "userId": "352e6cbe-f86f-46ac-bc57-ba55b3a6a97a",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "352e6cbe-f86f-46ac-bc57-ba55b3a6a97a",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The filer, Lanuage Test, age 31, resides in Austin, Texas, and files as Single. Their only reported income is from wages (Form W-2) earned from HR Block totaling $20,000, which matches their Adjusted Gross Income (AGI) for the year. They have not signed IRS Form 7216 consent. The filer\u0027s address, email, and phone number are current, and they are not claimed as a dependent. For tax year 2025, the filer used H\u0026R Block\u0027s online platform, completed the federal return, and has paid for the product. Their primary federal filing product is TCD.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "c0cf5e83-4508-4c5e-ba87-afbcaedad6d9",
+    "contactInformation": {
+      "userId": "c0cf5e83-4508-4c5e-ba87-afbcaedad6d9",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "c0cf5e83-4508-4c5e-ba87-afbcaedad6d9",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The user, Lanuage Test, filed as Single for tax year 2025. The only reported income is wages from a W-2 provided by HR Block, totaling $20,000, which is also the Adjusted Gross Income. The user lives in Austin, TX, is a U.S. citizen aged 31, and used a standard deduction. No K-1s, Schedule C, or 1099 forms were found. The 7216 (tax information disclosure) was not signed. The user paid for the tax product and used product SKU TCF.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "300000022",
+    "contactInformation": {
+      "userId": "300000022",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0108SPortuguese_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "300000022",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer Lanuage Test is a single filer residing at 1 Main, Austin, TX 73301, aged 32 (born 10/10/1993). For the 2025 tax year, the user reported $20,000 in W-2 wages from HR Block and an Adjusted Gross Income of $20,000. The tax return uses the Standard Deduction and the user has paid for the product (Deluxe, TCD). The IRS consent to disclose form (7216) was not signed.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "da2ed152-a5c4-4bac-8b92-e648ae3da559",
+    "contactInformation": {
+      "userId": "da2ed152-a5c4-4bac-8b92-e648ae3da559",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "da2ed152-a5c4-4bac-8b92-e648ae3da559",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer, Lanuage Test, filed as Single for tax year 2025 and resides at 1 Main, Austin, TX 73301. The main source of income is wages reported on a single W-2 from HR Block totaling $20,000. The adjusted gross income (AGI) is $20,000. The user has not signed the 7216 consent. Contact information includes the email TY25SchLEP0101SSpain_0521_@hrblock.testinator.com and the phone number 8165551212. The user purchased the TCD tax product (Deluxe), and no other major income forms (such as K-1, Schedule C, or 1099 variants) are indicated.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "6c168023-a41e-4deb-a69d-e1abbc99f58f",
+    "contactInformation": {
+      "userId": "6c168023-a41e-4deb-a69d-e1abbc99f58f",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "6c168023-a41e-4deb-a69d-e1abbc99f58f",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": true,
+    "summary": "The tax filer, Lanuage Test, is a single individual residing at 1 Main, Austin, TX 73301. For tax year 2025, their federal tax return shows an adjusted gross income (AGI) of $20,000, derived entirely from a W-2 reported by HR Block. The taxpayer is not self-employed, did not report any K-1, Schedule C, or 1099 income. Their primary contact email is TY25SchLEP0101SSpain_0521_@hrblock.testinator.com and their phone number is 8165551212. The user\u0027s tax return is for the product type TCF and they have already paid for the product. The user gave electronic consent by signing form 7216. No spouse or dependents are indicated, and the filing status is single.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "b4b47315-de0f-4051-b431-74ae7f04d7f4",
+    "contactInformation": {
+      "userId": "b4b47315-de0f-4051-b431-74ae7f04d7f4",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "b4b47315-de0f-4051-b431-74ae7f04d7f4",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer, Lanuage Test, is filing as a single individual residing in Austin, TX. The primary source of income is wages reported on a W-2 from HR Block, amounting to $20,000, which is also the adjusted gross income for the year. The user\u2019s contact information includes an email address and a phone number. There are no additional major income forms besides the W-2. Consent to disclose (Form 7216) was not given. The user has completed the tax return process and has paid for the product.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "68cab390-a37c-442d-926b-6cb0ca686f7c",
+    "contactInformation": {
+      "userId": "68cab390-a37c-442d-926b-6cb0ca686f7c",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "68cab390-a37c-442d-926b-6cb0ca686f7c",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The user, Lanuage Test, filed as Single for tax year 2025 and resides at 1 Main, Austin, TX 73301. Their only reported income is from a W-2 with HR Block as the employer, totaling $20,000, with an Adjusted Gross Income (AGI) matching that amount. The user has not signed form 7216 for third-party data sharing. Their contact email is TY25SchLEP0101SSpain_0521_@hrblock.testinator.com and the preferred phone number is 8165551212. They have paid for the tax preparation product, with tax type TCF, and no indication of K1, Schedule C, or 1099 forms present.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "3b1f5290-23dc-4a28-bb07-b4479b7807bb",
+    "contactInformation": {
+      "userId": "3b1f5290-23dc-4a28-bb07-b4479b7807bb",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "3b1f5290-23dc-4a28-bb07-b4479b7807bb",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "Lanuage Test is a single filer, aged 31, residing in Austin, Texas. For tax year 2025, they reported $20,000 in earned income from HR Block as shown on their W-2 form, with an Adjusted Gross Income (AGI) of $20,000. Their contact address is 1 Main, Austin, TX 73301, and they can be reached at 8165551212 or via email at TY25SchLEP0101SSpain_0521_@hrblock.testinator.com. Lanuage Test claimed the standard deduction, is not claimed as a dependent by anyone else, and has not signed the 7216 consent form. Their return has been paid and processed under tax product TCF.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "05e9a039-5be6-4a2f-89c9-52bcd3592461",
+    "contactInformation": {
+      "userId": "05e9a039-5be6-4a2f-89c9-52bcd3592461",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "05e9a039-5be6-4a2f-89c9-52bcd3592461",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The filer, Lanuage Test, is a single taxpayer residing in Austin, Texas. For the 2025 tax year, the filer reported wage income exclusively from a W-2 issued by HR Block totaling $20,000, which matches the reported adjusted gross income. No other income forms such as Schedule C, K1s, or various 1099s were found. The filer provided valid contact information and has agreed to electronic delivery but did not sign Form 7216 for consent to disclose tax information. The federal return is for a standard 1040 product. The user has paid for the tax preparation product.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "e42158aa-c13c-4cb1-921a-4a714a5920ca",
+    "contactInformation": {
+      "userId": "e42158aa-c13c-4cb1-921a-4a714a5920ca",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "e42158aa-c13c-4cb1-921a-4a714a5920ca",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "Lanuage Test is a single filer for tax year 2025, residing at 1 Main, Austin, TX 73301, aged 31 and not claimed as a dependent. Their main source of income is a W-2 from HR Block with wages totaling $20,000 and an AGI of $20,000. The return indicates no 7216 consent was signed. The taxpayer has itemized deductions of $527, a standard deduction option of $14,600, and a contact email of TY25SchLEP0101SSpain_0521_@hrblock.testinator.com.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+    "contactInformation": {
+      "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+      "firstName": "CHARLIE",
+      "lastName": "IAINCADJRETURN",
+      "address": "123 MAIN, Ames, IA 50010",
+      "email": "IAPENALTY2024_dmob_@hrblock.testinator.com",
+      "phone": "5153551234"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "W-2",
+        "incomeSource": "CORNBRED BARBEQUE",
+        "incomeAmount": 100000
+      },
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "1099-R",
+        "incomeSource": "FIDELITY",
+        "incomeAmount": 10000
+      },
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "W-2G",
+        "incomeSource": "Maple Bluff Country Club",
+        "incomeAmount": 5000
+      },
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "Other Income",
+        "incomeSource": "Cash income",
+        "incomeAmount": 15
+      },
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "Other Income",
+        "incomeSource": "GAMBLING WINNINGS (not on W2G)",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "cfc9a022-c82e-4ca4-aa0b-89157d6efeba",
+        "formType": "Other Income",
+        "incomeSource": "PRIZES AND AWARDS",
+        "incomeAmount": 100
+      }
+    ],
+    "adjustedGrossIncome": 116115,
+    "signed7216": false,
+    "summary": "Charlie IAINCADJRETURN (age 72) and spouse Everly IAINCADJRETURN (age 39), residents of Ames, Iowa, filed jointly for the 2024 tax year with one dependent. Their primary contact is 5153551234 and email IAPENALTY2024_dmob_@hrblock.testinator.com. Their major income sources include a $100,000 W-2 from Cornbred Barbeque, a $10,000 1099-R pension from Fidelity, and gambling winnings, including $5,000 from a W2-G (Maple Bluff Country Club) and an additional $1,000 not on W2-G. Other small income includes cash income ($15) and $100 in prizes/awards. Their AGI for 2024 is $116,115, and their filing status is Married Filing Jointly. They have paid for the HR Block product and are utilizing the TCD/OPP tax product type. The 7216 disclosure was not signed.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "4c94c0bc-58a6-4378-b681-6f0b58cabe93",
+    "contactInformation": {
+      "userId": "4c94c0bc-58a6-4378-b681-6f0b58cabe93",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "_dcaptcha_Skip2FA_LD_dmob_ldvhLDVHTN@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "The user with ID 4c94c0bc-58a6-4378-b681-6f0b58cabe93 started a 2025 US1040 tax return. The user\u0027s contact email is _dcaptcha_Skip2FA_LD_dmob_ldvhLDVHTN@hrblock.testinator.com. No first name, last name, address, or phone information is present in the data provided. There is currently no income reported and no income forms (like W-2, 1099, K1, or Schedule C) are associated. The user has signed form 7216. Adjusted Gross Income is not available.",
+    "taxType": "TCL",
+    "hasPaid": false
+  },
+  {
+    "userId": "de720fce-fbac-4701-bdd0-466b8aec4378",
+    "contactInformation": {
+      "userId": "de720fce-fbac-4701-bdd0-466b8aec4378",
+      "firstName": "SchD",
+      "lastName": "Base",
+      "address": "132 Turner Ave, Irving, TX 75014",
+      "email": "TXOFY25SchD.00.MFJ_dmob_0520@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "de720fce-fbac-4701-bdd0-466b8aec4378",
+        "formType": "W-2",
+        "incomeSource": "HR block",
+        "incomeAmount": 50000
+      },
+      {
+        "userId": "de720fce-fbac-4701-bdd0-466b8aec4378",
+        "formType": "Schedule D",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 4200
+      }
+    ],
+    "adjustedGrossIncome": 54200,
+    "signed7216": false,
+    "summary": "The filer, SchD Base, is married and filed jointly with spouse Stocks Base. Together, they reside at 132 Turner Ave, Irving, TX 75014. The primary taxpayer is 39 years old, and the spouse is 37 years old. Their major income sources include $50,000 in W-2 wages from HR Block and $4,200 in capital gains reported on Schedule D. The household\u0027s adjusted gross income is $54,200, and the return includes significant reporting of investment income. They did not sign IRS 7216 consent for disclosures.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "e18b3c9e-a563-4a98-8608-95e551b92223",
+    "contactInformation": {
+      "userId": "e18b3c9e-a563-4a98-8608-95e551b92223",
+      "firstName": "rate",
+      "lastName": "return",
+      "address": "address, Kansas City, MO 64111",
+      "email": "Sayanora_dmob_FY262210pen@hrblock.testinator.com",
+      "phone": "4567231111"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "e18b3c9e-a563-4a98-8608-95e551b92223",
+        "formType": "W-2",
+        "incomeSource": "name",
+        "incomeAmount": 60000
+      }
+    ],
+    "adjustedGrossIncome": 60000,
+    "signed7216": false,
+    "summary": "The taxpayer, rate return (SSN: 333-21-3111), age 27, is filing as Single for tax year 2025 and resides at \u0027address, Kansas City, MO 64111\u0027. Income reported comes from a W-2, with total wages of $60,000 and federal tax withholding of $2,400. The expected AGI is $60,000, with a standard deduction of $14,600. The taxpayer is a first-time, paid HR Block user, not self-employed, and not claimed as a dependent. No K1s, Schedule C, or 1099s are reported. The user has not signed the 7216 consent. Contact email: Sayanora_dmob_FY262210pen@hrblock.testinator.com, phone: 4567231111. Tax product type is \u0027OPP\u0027 and user has paid for the product.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "6b347b0d-ff9f-44bf-b4f9-e8011e660bcc",
+    "contactInformation": {
+      "userId": "6b347b0d-ff9f-44bf-b4f9-e8011e660bcc",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "ReturnTemplate_QA24_dmob_@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "This user, with ID 6b347b0d-ff9f-44bf-b4f9-e8011e660bcc and email ReturnTemplate_QA24_dmob_@hrblock.testinator.com, has a paid product according to user data. There is no income information, contact address, or name specified in the available data. The adjusted gross income and the signed 7216 status are not indicated in the object. Tax type is \u0027OPP\u0027 as per user data.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "0d1c58d3-ba8a-453f-a4da-4d82ff6d9ab9",
+    "contactInformation": {
+      "userId": "0d1c58d3-ba8a-453f-a4da-4d82ff6d9ab9",
+      "firstName": "Test",
+      "lastName": "Return",
+      "address": "1 Main St, Saint Paul, MN 55145",
+      "email": "TY25MN_0502_2025_dmob_@hrblock.testinator.com",
+      "phone": "8005551212"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "0d1c58d3-ba8a-453f-a4da-4d82ff6d9ab9",
+        "formType": "W-2",
+        "incomeSource": "emp",
+        "incomeAmount": 98000
+      },
+      {
+        "userId": "0d1c58d3-ba8a-453f-a4da-4d82ff6d9ab9",
+        "formType": "1099-R",
+        "incomeSource": "Some Account",
+        "incomeAmount": 5555
+      },
+      {
+        "userId": "0d1c58d3-ba8a-453f-a4da-4d82ff6d9ab9",
+        "formType": "1099-G",
+        "incomeSource": "another payer",
+        "incomeAmount": 6666
+      }
+    ],
+    "adjustedGrossIncome": 104666,
+    "signed7216": false,
+    "summary": "Test Return is a Head of Household filer residing at 1 Main St, Saint Paul, MN 55145, with contact email TY25MN_0502_2025_dmob_@hrblock.testinator.com and phone number 8005551212. For tax year 2025, they reported an AGI of $104,666, primarily from a W-2 job ($98,000), a 1099-R pension or retirement account ($5,555), and a state income tax refund on a 1099-G ($6,666). They have at least two dependents (SOME KID and MY GRANDPA). The taxpayer has not signed a 7216 consent. The main product SKU in use is OPP. The user has paid for the tax product.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+    "contactInformation": {
+      "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+      "firstName": "Maddie",
+      "lastName": "Townsend",
+      "address": "15 Main Street, Bristol, CT 06010",
+      "email": "ReturnTemplate_QA24_dmob_@hrblock.testinator.com",
+      "phone": "8885554444"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "W-2",
+        "incomeSource": "EMPLOYER - Sick pay",
+        "incomeAmount": 4594
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "W-2",
+        "incomeSource": "Rail Road Employment",
+        "incomeAmount": 20116
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "W-2",
+        "incomeSource": "Construction",
+        "incomeAmount": 49786
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "1099-G",
+        "incomeSource": "UNEMPLOYMENT",
+        "incomeAmount": 2400
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "1099-G",
+        "incomeSource": "CT Refund",
+        "incomeAmount": 800
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "RRB1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "aca87d1f-9598-45f6-a4f6-6fd4ed812507",
+        "formType": "RRB1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD Tier II",
+        "incomeAmount": 3247
+      }
+    ],
+    "adjustedGrossIncome": 97943,
+    "signed7216": false,
+    "summary": "Maddie Townsend is filing as Head of Household for tax year 2024 and resides at 15 Main Street, Bristol, CT 06010. Maddie is 64 years old and has one qualifying dependent, Ty Townsend (son, age 14). Major sources of income include wages from three W-2 jobs (totaling $74,496), unemployment compensation ($2,400), a state tax refund ($800), and pension/benefits from the US Railroad Retirement Board ($23,247). Maddie\u2019s adjusted gross income is $97,943. The tax return includes dependents, itemized/standard deductions, credits such as child tax credit, and insurance coverage information. Maddie has completed the tax questionnaire, and the return indicates the necessary filings and forms for both federal and Connecticut state purposes. According to the data, the user has paid for the product and the filing status is confirmed as Head of Household.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "f754ee89-3255-4657-bfbb-f926b2b21ce4",
+    "contactInformation": {
+      "userId": "f754ee89-3255-4657-bfbb-f926b2b21ce4",
+      "firstName": "Under",
+      "lastName": "Payer",
+      "address": "123 Ave, Kansas City, MO 64111",
+      "email": "usertest_dmob_FY25_F2210.01.06@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "f754ee89-3255-4657-bfbb-f926b2b21ce4",
+        "formType": "W-2",
+        "incomeSource": "JOB",
+        "incomeAmount": 100000
+      },
+      {
+        "userId": "f754ee89-3255-4657-bfbb-f926b2b21ce4",
+        "formType": "W-2",
+        "incomeSource": "HR BLOCK",
+        "incomeAmount": 142800
+      },
+      {
+        "userId": "f754ee89-3255-4657-bfbb-f926b2b21ce4",
+        "formType": "1099R",
+        "incomeSource": "HR Block",
+        "incomeAmount": 5000
+      }
+    ],
+    "adjustedGrossIncome": 247800,
+    "signed7216": false,
+    "summary": "The user Under Payer (SSN ending in 0112), age 54, is a single filer residing in Kansas City, Missouri. Their reported income for 2024 consists primarily of W-2 wages from two employers totaling $242,800, and a $5,000 pension/IRA distribution (Form 1099-R). The user has an adjusted gross income of $247,800. There is no spouse or dependents reported. The contact email is usertest_dmob_FY25_F2210.01.06@hrblock.testinator.com and the primary phone is 8165551212. The user has not electronically signed a 7216 consent.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "3313202d-a911-42bf-9cbe-f4fb278771f7",
+    "contactInformation": {
+      "userId": "3313202d-a911-42bf-9cbe-f4fb278771f7",
+      "firstName": "James",
+      "lastName": "Test",
+      "address": "PO Box 500, Independence, MO 64055",
+      "email": "FY25_dmob_F8936.01.04@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "3313202d-a911-42bf-9cbe-f4fb278771f7",
+        "formType": "1099-NEC",
+        "incomeSource": "rrr",
+        "incomeAmount": 666
+      },
+      {
+        "userId": "3313202d-a911-42bf-9cbe-f4fb278771f7",
+        "formType": "OtherIncome",
+        "incomeSource": "Prizes and Awards",
+        "incomeAmount": 10000
+      }
+    ],
+    "adjustedGrossIncome": 10000,
+    "signed7216": false,
+    "summary": "The taxpayer, James Test, resides at PO Box 500, Independence, MO 64055. Filing as Single for the 2024 tax year, James reported an adjusted gross income of $10,000. His income consists of $666 in nonemployee compensation from a 1099-NEC (payer \u0027rrr\u0027) and $10,000 in prizes and awards as other income. No income was reported on W-2s, K-1s, or Schedule C as business income. The taxpayer\u0027s 7216 consent for third-party tax information disclosure is recorded as not signed.",
+    "taxType": "SEP",
+    "hasPaid": true
+  },
+  {
+    "userId": "abd7f1f1-0765-4d18-9f3d-547c1c1c81b2",
+    "contactInformation": {
+      "userId": "abd7f1f1-0765-4d18-9f3d-547c1c1c81b2",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "abd7f1f1-0765-4d18-9f3d-547c1c1c81b2",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "Lanuage Test, age 31, filed as Single for tax year 2025 with a US address in Austin, TX. The taxpayer had wage income totaling $20,000 from HR Block as reported on a W-2, with an adjusted gross income (AGI) of $20,000. Contact details include the email TY25SchLEP0101SSpain_0521_@hrblock.testinator.com and phone 8165551212. No evidence of additional income sources such as K-1, Schedule C, or 1099 forms. The user did not sign consent form 7216. Taxpayer has paid for the tax product (Deluxe/TCF).",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "acf2a36b-456c-4ccb-a44a-5d970f2bf81a",
+    "contactInformation": {
+      "userId": "acf2a36b-456c-4ccb-a44a-5d970f2bf81a",
+      "firstName": "Lanuage",
+      "lastName": "Test",
+      "address": "1 Main, Austin, TX 73301",
+      "email": "TY25SchLEP0101SSpain_0521_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "acf2a36b-456c-4ccb-a44a-5d970f2bf81a",
+        "formType": "W-2",
+        "incomeSource": "HR Block",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer, Lanuage Test, filed as single for tax year 2025 and resides at 1 Main, Austin, TX 73301. Their primary income source is a W-2 from HR Block with reported wages of $20,000, which is also their adjusted gross income (AGI). The taxpayer provided contact details including an email and phone number, and there is no indication of Schedule C, K-1, or 1099 income forms in the data. The return indicates the taxpayer did not sign form 7216 consent. The user has completed their tax return, provided all requested consents, and their income and deductions have been processed accordingly.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "d4c1db71-8e29-4775-9d68-3f26486ee14c",
+    "contactInformation": {
+      "userId": "d4c1db71-8e29-4775-9d68-3f26486ee14c",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "STBeanstalkKS1001@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "Single",
+    "incomeForms": [],
+    "adjustedGrossIncome": -14600,
+    "signed7216": true,
+    "summary": "The user with ID d4c1db71-8e29-4775-9d68-3f26486ee14c prepared a 2024 US 1040 tax return with filing status Single. The contact info, including name, address, and phone, is missing, but an email is on file. According to their return, the adjusted gross income (AGI) is -14600, and no standard W-2, K-1, Schedule C, or 1099 incomes are listed. The user has consented to 7216 disclosure. The user has paid for the product and is filing for the tax year 2024 with product type TCD.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "8878bde7-4c1f-43ac-8871-43561087e38e",
+    "contactInformation": {
+      "userId": "8878bde7-4c1f-43ac-8871-43561087e38e",
+      "firstName": "James",
+      "lastName": "Bond",
+      "address": "4400 main, Kansas City, MO 64111",
+      "email": "TY25_F5695Userstory_domb_522@hrblock.testinator.com",
+      "phone": "5643234569"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "8878bde7-4c1f-43ac-8871-43561087e38e",
+        "formType": "W-2",
+        "incomeSource": "HRB INC",
+        "incomeAmount": 40000
+      },
+      {
+        "userId": "8878bde7-4c1f-43ac-8871-43561087e38e",
+        "formType": "Schedule D",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 70001
+      }
+    ],
+    "adjustedGrossIncome": 109001,
+    "signed7216": false,
+    "summary": "James Bond (age 36) and spouse admond Smithson (also age 36) file jointly as Married Filing Jointly and live at 4400 main, Kansas City, MO 64111. Their main sources of income in tax year 2025 are a W-2 from HRB INC for $40,000 and significant short-term capital gains totaling $70,001. Their calculated Adjusted Gross Income is $109,001. They did not sign IRS form 7216 for tax data disclosure. Contact info includes email TY25_F5695Userstory_domb_522@hrblock.testinator.com and phone 5643234569.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+    "contactInformation": {
+      "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+      "firstName": "Jack",
+      "lastName": "HI-Beanstalk",
+      "address": "909 Park Lane, Kailua Kona, HI 96740",
+      "email": "STBeanstalkHI1202_24@hrblock.testinator.com",
+      "phone": "3005552121"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "W-2",
+        "incomeSource": "US GOV",
+        "incomeAmount": 83727
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "W-2",
+        "incomeSource": "EmployeeStatutory",
+        "incomeAmount": 38943
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "Schedule C",
+        "incomeSource": "Jack FD-Beanstalk (Statutory employee work for EmployeeStatutory)",
+        "incomeAmount": 38943
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "Schedule C",
+        "incomeSource": "Jackie Wood (Service)",
+        "incomeAmount": -697
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "Schedule C",
+        "incomeSource": "Jack FD-Beanstalk (Little Odd Jobs)",
+        "incomeAmount": 20
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "1099-R",
+        "incomeSource": "Vanguard GroupBrokerage Account",
+        "incomeAmount": 5000
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "1099-G",
+        "incomeSource": "State Unemployment",
+        "incomeAmount": 232
+      },
+      {
+        "userId": "1619228e-bafe-49d6-8b2f-535f65692b46",
+        "formType": "1099-G",
+        "incomeSource": "State Refund",
+        "incomeAmount": 74
+      }
+    ],
+    "adjustedGrossIncome": 119699,
+    "signed7216": false,
+    "summary": "Jack HI-Beanstalk, a 49-year-old Head of Household filer from Kailua Kona, HI, earned most income from W-2 wages (US GOV $83,727 and EmployeeStatutory $38,943), reported Schedule C self-employment including statutory and various business activities (totaling $38,266), received state unemployment ($232), state refund ($74), and a 1099-R pension distribution from Vanguard ($5,000). AGI for the federal return is $119,699. He itemized deductions, claimed child and dependent care credit, and supports a dependent. The user\u2019s contact is STBeanstalkHI1202_24@hrblock.testinator.com and 3005552121.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+    "contactInformation": {
+      "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+      "firstName": "French",
+      "lastName": "KSToast",
+      "address": "44 Main Ave, Kansas City, KS 66105",
+      "email": "STtoastKS_1203@hrblock.testinator.com",
+      "phone": "5115115151"
+    },
+    "filingStatus": "MarriedFilingSeparately",
+    "incomeForms": [
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "W-2",
+        "incomeSource": "Job",
+        "incomeAmount": 35105
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "W-2",
+        "incomeSource": "Church Wages",
+        "incomeAmount": 5326
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "Schedule C",
+        "incomeSource": "My Boss",
+        "incomeAmount": 5614
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "Schedule F",
+        "incomeSource": "The Farm Loss Wheat",
+        "incomeAmount": 5000
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "Schedule E",
+        "incomeSource": "MultiFamilyResidence (BB Street, Austin, TX 78746)",
+        "incomeAmount": 5000
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "1099-INT",
+        "incomeSource": "Lovely Investments Agency",
+        "incomeAmount": 20
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "1099-R",
+        "incomeSource": "H\u0026R Block",
+        "incomeAmount": 8000
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "OtherIncome/982",
+        "incomeSource": "Cancellation of Debt",
+        "incomeAmount": 5000
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "4797",
+        "incomeSource": "Sale of Business/Farm Asset",
+        "incomeAmount": 600
+      },
+      {
+        "userId": "193ad657-63c0-4b38-8c28-ebf679ce3b20",
+        "formType": "Schedule D",
+        "incomeSource": "Capital Gains",
+        "incomeAmount": 4300
+      }
+    ],
+    "adjustedGrossIncome": 52479,
+    "signed7216": true,
+    "summary": "French KSToast is filing for the 2023 tax year with a Married Filing Separately status and resides at 44 Main Ave, Kansas City, KS 66105. The primary filer is 67 years old (SSN ends 0060), with spouse MISTER Toast, age 67 (SSN ends 0061). They have one dependent (Jane Toast, age 11). Income consists of two W-2 jobs (Job: $35,105, Church Wages: $5,326), self-employment (Schedule C: My Boss, $5,614), farm income (Schedule F: $5,000), rental income (Schedule E: $5,000), investment (1099-INT: $20), retirement (1099-R: $8,000), cancellation of debt ($5,000), capital gains ($4,300), and other gains ($600). The household adjusted gross income (AGI) is $52,479. The user has signed the IRS 7216 consent form. The State return filed is for Kansas, with part-year residency reported for both taxpayer and spouse and a dependent claimed for Child Tax Credit. The user has paid for their tax product, and the selected product is \u0027SEP\u0027 (Self-Employed/Professional).",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "dee734ae-96a3-43e9-a8a2-9111d56be25a",
+    "contactInformation": {
+      "userId": "c4bc4a39-5273-4957-bdf7-1f8c6d764dd9",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "anon@nodomain.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "The taxpayer (user ID dee734ae-96a3-43e9-a8a2-9111d56be25a, email anon@nodomain.com) started their tax return on May 23, 2025. No specific income forms or AGI were found in the provided data, and the user\u0027s contact details are mostly unavailable. The user has agreed to IRS Form 7216 consent. There is no indication of specific income or deductions in this data extract.",
+    "taxType": "OPP",
+    "hasPaid": false
+  },
+  {
+    "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+    "contactInformation": {
+      "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+      "firstName": "Maddie",
+      "lastName": "Townsend",
+      "address": "15 Main Street, Bristol, CT 06010",
+      "email": "ReturnTemplate_QA24_dmob_@hrblock.testinator.com",
+      "phone": "8885554444"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "W-2",
+        "incomeSource": "EMPLOYER - Sick pay",
+        "incomeAmount": 4594
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "W-2",
+        "incomeSource": "Rail Road Employment",
+        "incomeAmount": 20116
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "W-2",
+        "incomeSource": "Construction",
+        "incomeAmount": 49786
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "1099G",
+        "incomeSource": "UNEMPLOYMENT",
+        "incomeAmount": 2400
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "RRB1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD (Soc Sec Equivalent)",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "RRB1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD (Pension/Tier II)",
+        "incomeAmount": 3247
+      },
+      {
+        "userId": "62b843b2-dd76-45fd-af83-61a36cb40ddd",
+        "formType": "1099G",
+        "incomeSource": "CT Refund",
+        "incomeAmount": 800
+      }
+    ],
+    "adjustedGrossIncome": 97943,
+    "signed7216": false,
+    "summary": "Maddie Townsend, age 64, is filing as Head of Household and resides at 15 Main Street, Bristol, CT 06010. She is not married and has at least one dependent, Ty Townsend. Maddie earned income primarily from three W-2 sources (EMPLOYER - Sick pay, Rail Road Employment, and Construction) totaling $74,496, received $2,400 in unemployment compensation, $20,000 from Railroad Retirement benefits (including both Social Security equivalent and Tier II pension), and a $800 state tax refund (1099-G). Her Adjusted Gross Income for the year is $97,943. She has provided a valid phone number and email. The user appears to have paid for her tax product selection, and the tax type is OPP, indicating the specific product SKU. Consent form 7216 (for data use/disclosure) was not signed. No K-1, Schedule C, or 1099-NEC/INT/DIV/MISC forms are present.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "e83ca245-2876-444c-8f52-19a66d8a89ea",
+    "contactInformation": {
+      "userId": "e83ca245-2876-444c-8f52-19a66d8a89ea",
+      "firstName": "Kevin",
+      "lastName": "Brown",
+      "address": "3344 main, Kansas City, MO 64111",
+      "email": "PP_TXOFHSA_dmob_0407@hrblock.testinator.com",
+      "phone": "8162326138"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "e83ca245-2876-444c-8f52-19a66d8a89ea",
+        "formType": "W-2",
+        "incomeSource": "kSSd",
+        "incomeAmount": 65845
+      },
+      {
+        "userId": "e83ca245-2876-444c-8f52-19a66d8a89ea",
+        "formType": "W-2",
+        "incomeSource": "Triber INC",
+        "incomeAmount": 88000
+      },
+      {
+        "userId": "e83ca245-2876-444c-8f52-19a66d8a89ea",
+        "formType": "OtherIncome",
+        "incomeSource": "EXCESS EMPLOYER CONTRIBUTIONS",
+        "incomeAmount": 3650
+      }
+    ],
+    "adjustedGrossIncome": 156495,
+    "signed7216": false,
+    "summary": "Kevin Brown and Dana Misc are married taxpayers living at 3344 Main, Kansas City, MO. They are both 47 years old and filed jointly for tax year 2024. Kevin works for kSSd, earning $65,845 and Dana works for Triber INC, earning $88,000. They also reported $3,650 in other income from excess employer contributions to an HSA. Their total adjusted gross income is $156,495. The couple\u0027s contact email is PP_TXOFHSA_dmob_0407@hrblock.testinator.com and their preferred phone number is 8162326138. They utilized the OPP product and have paid for their tax filing. The 7216 consent form is not signed.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+    "contactInformation": {
+      "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+      "firstName": "Rita-Ann",
+      "lastName": "Serville",
+      "address": "78-1/2 Plaza Way, Seattle, WA 98117",
+      "email": "CAServille_test0225@hrblock.testinator.com",
+      "phone": "4005551212"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+        "formType": "W-2",
+        "incomeSource": "Plaza Cafe",
+        "incomeAmount": 14306
+      },
+      {
+        "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+        "formType": "W-2",
+        "incomeSource": "Dept of Defense",
+        "incomeAmount": 12036
+      },
+      {
+        "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+        "formType": "1099-INT",
+        "incomeSource": "Bank Midwest",
+        "incomeAmount": 158
+      },
+      {
+        "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+        "formType": "1099-INT",
+        "incomeSource": "ABC Savings",
+        "incomeAmount": 387
+      },
+      {
+        "userId": "7c46dfa2-8f0d-459a-982c-da3165825c9d",
+        "formType": "Other",
+        "incomeSource": "Gambling winnings",
+        "incomeAmount": 3900
+      }
+    ],
+    "adjustedGrossIncome": 30792,
+    "signed7216": false,
+    "summary": "Rita-Ann Serville, age 64, is the primary filer residing at 78-1/2 Plaza Way, Seattle, WA 98117. She is filing as Head of Household with two qualifying children and claimed the earned income and additional child tax credits. Her primary sources of income are from two W-2 employers (Plaza Cafe and Dept of Defense) totaling $26,342, and interest income from Bank Midwest and ABC Savings. She also reported $3,900 in gambling winnings. Her total adjusted gross income is $30,792. The user has completed and paid for a TCD product and has signed all standard consents, but has not signed IRS Form 7216 consent.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "9b5ef608-e9bc-4a13-a63b-23630b2bc164",
+    "contactInformation": {
+      "userId": "9b5ef608-e9bc-4a13-a63b-23630b2bc164",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "STLinesAR0919@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "Joint",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "The user, identified by ID 9b5ef608-e9bc-4a13-a63b-23630b2bc164 and email STLinesAR0919@hrblock.testinator.com, is filing a joint tax return for the 2024 tax year. No specific income forms or amounts are provided in the tax object model. The user has signed Form 7216 consent. Contact address and phone information are not available, nor is the adjusted gross income specified.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "32816775-72d0-46bc-82f8-ea7e10eab589",
+    "contactInformation": {
+      "userId": "32816775-72d0-46bc-82f8-ea7e10eab589",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "STVixonAR0911@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": true,
+    "summary": "This user (ID: 32816775-72d0-46bc-82f8-ea7e10eab589) started a 2024 US1040 tax return. The system identifies the user\u0027s contact email as STVixonAR0911@hrblock.testinator.com. There is no income reported from W-2, K-1, Schedule C, or 1099 forms, and the AGI is undetermined. The user\u0027s 7216 consent flag is set, indicating they have agreed to IRS Form 7216 disclosures. It appears the user has paid for the product, but contact details and filing status are incomplete or unavailable.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "b8418d86-4393-479d-89ee-f52a09e9f450",
+    "contactInformation": {
+      "userId": "b8418d86-4393-479d-89ee-f52a09e9f450",
+      "firstName": "Taxpayer",
+      "lastName": "Education",
+      "address": "1400 Kansas City, MO 64111",
+      "email": "TXOTY25userstory4489794_dmob_0526@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "b8418d86-4393-479d-89ee-f52a09e9f450",
+        "formType": "W-2",
+        "incomeSource": "work",
+        "incomeAmount": 75000
+      }
+    ],
+    "adjustedGrossIncome": 75000,
+    "signed7216": false,
+    "summary": "The taxpayers filing jointly are Taxpayer Education and Spouse Education, residents of Kansas City, Missouri. Both are full-time students in their late 40s and early 50s, and are U.S. citizens. For tax year 2025, they reported a combined W-2 wage income of $75,000 with an adjusted gross income of $75,000. Their filing status is Married Filing Jointly, and they have no dependents. Contact information includes a valid email address and phone number. The users have paid for their tax product, but have not signed consent form 7216.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "5b6d198a-39d1-44cc-9f37-e4497300f8e1",
+    "contactInformation": {
+      "userId": "5b6d198a-39d1-44cc-9f37-e4497300f8e1",
+      "firstName": "Taxpayer",
+      "lastName": "Education",
+      "address": "1400, Kansas City, MO 64111",
+      "email": "TXOTY25userstory4489794_dmob_0526@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "5b6d198a-39d1-44cc-9f37-e4497300f8e1",
+        "formType": "W-2",
+        "incomeSource": "work",
+        "incomeAmount": 75000
+      }
+    ],
+    "adjustedGrossIncome": 75000,
+    "signed7216": false,
+    "summary": "The filer, Taxpayer Education, is married and filing jointly with Spouse Education. They reside at 1400, Kansas City, MO 64111, and can be contacted via email at TXOTY25userstory4489794_dmob_0526@hrblock.testinator.com or by phone at 8165551212. Their income for the tax year primarily comes from employment (Form W-2) with total wages of $75,000. Their adjusted gross income (AGI) is $75,000. Both the taxpayer and spouse are full-time students, and both are not claimable as dependents. The taxpayer has not signed the 7216 consent. The return is for the 2025 tax year, filing status is Married Filing Jointly, and the product used is OPP.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+    "contactInformation": {
+      "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+      "firstName": "Gertrude",
+      "lastName": "Vixon",
+      "address": "1 Main, Mobile, AL 36602",
+      "email": "TXOFY23Vixon0622@hrblock.testinator.com",
+      "phone": "8165551213"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "W-2",
+        "incomeSource": "Malones Cafe",
+        "incomeAmount": 16300
+      },
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "W-2",
+        "incomeSource": "This is Easy",
+        "incomeAmount": 4083
+      },
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "W-2",
+        "incomeSource": "Job3",
+        "incomeAmount": 1003
+      },
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "W-2",
+        "incomeSource": "Job4",
+        "incomeAmount": 1004
+      },
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "W-2",
+        "incomeSource": "Job5",
+        "incomeAmount": 1005
+      },
+      {
+        "userId": "a8223b79-d69e-42f9-a68b-53cb48d00179",
+        "formType": "Other",
+        "incomeSource": "Alaska Permanent Fund Dividend",
+        "incomeAmount": 740
+      }
+    ],
+    "adjustedGrossIncome": 24335,
+    "signed7216": false,
+    "summary": "Gertrude Vixon is a 35-year-old Head of Household filer residing at 1 Main, Mobile, AL 36602, with email TXOFY23Vixon0622@hrblock.testinator.com and phone number 8165551213. More than half of household support is provided by the taxpayer. The primary source of income consists of 5 W-2 jobs, with wages totaling $23,395 and an additional $740 from the Alaska Permanent Fund Dividend. The taxpayer claims 5 dependents, all young children, and qualifies for multiple credits such as EIC and the Child Tax Credit. AGI for 2023 is $24,335. The user has paid for the \u201CTCD\u201D tax product, and the 7216 consent was not given.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+    "contactInformation": {
+      "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+      "firstName": "Gertrude",
+      "lastName": "Vixon",
+      "address": "1 Main, Mobile, AL 36602",
+      "email": "ALVixon2024@hrblock.testinator.com",
+      "phone": "8165551213"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "W-2",
+        "incomeSource": "Malones Cafe",
+        "incomeAmount": 16300
+      },
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "W-2",
+        "incomeSource": "This is Easy",
+        "incomeAmount": 4083
+      },
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "W-2",
+        "incomeSource": "Job3",
+        "incomeAmount": 1003
+      },
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "W-2",
+        "incomeSource": "Job4",
+        "incomeAmount": 1004
+      },
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "W-2",
+        "incomeSource": "Job5",
+        "incomeAmount": 1005
+      },
+      {
+        "userId": "97d64b2e-8e1b-47d3-80f4-ee62a695f675",
+        "formType": "Other Income",
+        "incomeSource": "Alaska Permanent Fund Dividend",
+        "incomeAmount": 740
+      }
+    ],
+    "adjustedGrossIncome": 24335,
+    "signed7216": true,
+    "summary": "Gertrude Vixon is a 36-year-old single Head of Household filer living at 1 Main, Mobile, AL 36602 with five dependents. She earned employment income from five different W-2 jobs and received an Alaska Permanent Fund Dividend, resulting in an adjusted gross income (AGI) of $24,335. Gertrude has paid for the tax product (\u0027HASPAIDFORPRODUCT\u0027 is true), filed as Head of Household, and granted disclosure consent (signed 7216). Her return lists only W-2 and other miscellaneous (dividend) income, she claimed child and dependent care credits and the earned income tax credit. She qualified for significant refundable credits and received a large refund. Her filing includes both a federal and an Alabama state return.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "d34e32fe-be41-4e8a-9924-1f0306c1f719",
+    "contactInformation": {
+      "userId": "d34e32fe-be41-4e8a-9924-1f0306c1f719",
+      "firstName": "Test",
+      "lastName": "Case",
+      "address": "abc APT 1, Moodya, AL 35004",
+      "email": "user_01_dmob_@hrblock.testinator.com",
+      "phone": "2343423234"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "d34e32fe-be41-4e8a-9924-1f0306c1f719",
+        "formType": "W-2",
+        "incomeSource": "xyz",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "d34e32fe-be41-4e8a-9924-1f0306c1f719",
+        "formType": "Schedule C",
+        "incomeSource": "meraki (Beauty Services)",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "d34e32fe-be41-4e8a-9924-1f0306c1f719",
+        "formType": "1099-G StateRefund",
+        "incomeSource": "XYZ",
+        "incomeAmount": 100
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The user, Test Case, filed jointly with spouse XYZ Spouse, resides at \u0027abc APT 1, Moodya, AL 35004\u0027. The primary income sources are wages from a W-2 (employer xyz, $20,000) and self-employment income from a business \u0027meraki\u0027 (Beauty Services) as reported on Schedule C (also $20,000). There is also a state income tax refund of $100 reported on a 1099-G. The adjusted gross income (AGI) totals $20,000 for the year. The filing status is \u0027Married Filing Jointly\u0027. The email on record is user_01_dmob_@hrblock.testinator.com and preferred phone is 2343423234. The user has not signed IRS Form 7216 consent for disclosure.",
+    "taxType": "SEP",
+    "hasPaid": true
+  },
+  {
+    "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+    "contactInformation": {
+      "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+      "firstName": "ScheduleK",
+      "lastName": "One",
+      "address": "1100 Main, Kansas City, MO 64111",
+      "email": "TXOFY25ScheduleK1_userstory_dmob_0527@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+        "formType": "W-2",
+        "incomeSource": "Reynolds",
+        "incomeAmount": 20588
+      },
+      {
+        "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+        "formType": "K-1 (Fiduciary)",
+        "incomeSource": "shareone",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+        "formType": "K-1 (Partnership)",
+        "incomeSource": "AAA",
+        "incomeAmount": 3088
+      },
+      {
+        "userId": "c506243b-5a64-427e-979a-db4c4a9f0813",
+        "formType": "K-1 (S Corp)",
+        "incomeSource": "SSS",
+        "incomeAmount": 3105
+      }
+    ],
+    "adjustedGrossIncome": 22390,
+    "signed7216": false,
+    "summary": "The filer, ScheduleK One, is a single taxpayer age 26, residing at 1100 Main, Kansas City, MO 64111. Their 2025 return shows significant employment income from a W-2 (Reynolds: $20,588) and substantial investment and business income from multiple Schedule K-1s: $1,000 from a fiduciary (shareone), $3,088 from a partnership (AAA), and $3,105 from an S corporation (SSS). Their adjusted gross income (AGI) is $22,390. The taxpayer has not signed form 7216 consent. The filing status is Single. Email and phone on file are TXOFY25ScheduleK1_userstory_dmob_0527@hrblock.testinator.com and 816-555-1212.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "eb482def-8ece-4abc-9fcf-1a423dfd2ae1",
+    "contactInformation": {
+      "userId": "eb482def-8ece-4abc-9fcf-1a423dfd2ae1",
+      "firstName": "Jack",
+      "lastName": "Test",
+      "address": "1 Main, Kansas City, MO 64111",
+      "email": "kristy.holland_testhrb_TY24baseAdhoc_0715_dmob_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "eb482def-8ece-4abc-9fcf-1a423dfd2ae1",
+        "formType": "W-2",
+        "incomeSource": "Donut Shop",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 25000,
+    "signed7216": false,
+    "summary": "Jack Test is a single filer residing at 1 Main, Kansas City, MO 64111, age 44 with SSN ending in 0001. For tax year 2024, Jack reported income on a W-2 from Donut Shop totaling $25,000 (which matches the AGI). No K-1s, Schedule C, or 1099-NEC/INT/DIV/MISC income are present. Contact email is kristy.holland_testhrb_TY24baseAdhoc_0715_dmob_@hrblock.testinator.com and phone is 8165551212. The user has not signed Form 7216, and is using product type \u0027OPP\u0027.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+    "contactInformation": {
+      "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+      "firstName": "Ira",
+      "lastName": "Stamp",
+      "address": "7621 Mail Road, Des Moines, IA 50317",
+      "email": "TXOFY24StampMFJ.R_IA02@hrblock.testinator.com",
+      "phone": "8885551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "W-2",
+        "incomeSource": "Farmers Store",
+        "incomeAmount": 40033
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "W-2",
+        "incomeSource": "Medicare Wages",
+        "incomeAmount": 49034
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "1099R",
+        "incomeSource": "Meatcutter LU 576C",
+        "incomeAmount": 58
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "W2G",
+        "incomeSource": "Aksarben",
+        "incomeAmount": 3000
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "W2G",
+        "incomeSource": "Harrahs Casino",
+        "incomeAmount": 1250
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "SSA1099",
+        "incomeSource": "SSA1099 - Taxpayer",
+        "incomeAmount": 5050
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "SSA1099",
+        "incomeSource": "SSA1099 - Spouse",
+        "incomeAmount": 4040
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "1099G",
+        "incomeSource": "State Refund",
+        "incomeAmount": 200
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "1099B",
+        "incomeSource": "HHH (long-term capital gain)",
+        "incomeAmount": 4000
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "1099B",
+        "incomeSource": "ATT (short-term capital gain)",
+        "incomeAmount": 7800
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "Schedule F",
+        "incomeSource": "SCH F STAMP PLANTATION FIELD CROPS",
+        "incomeAmount": 100432
+      },
+      {
+        "userId": "44454981-91db-4ecf-8cb9-2f93e2c2e9b8",
+        "formType": "Form 4835",
+        "incomeSource": "The Farm Rental",
+        "incomeAmount": 7200
+      }
+    ],
+    "adjustedGrossIncome": 207811,
+    "signed7216": false,
+    "summary": "Ira Stamp (age 73) and spouse Ina Stamp (age 64), both US citizens residing in Des Moines, IA, filed their 2023 federal and Iowa state taxes jointly. Their main sources of income include W-2 wages from both spouses, self-employment farm income (Schedule F), farm rental income (Form 4835), Social Security, small pension, state refund, gambling winnings (W-2G), and capital gains (1099B). Their AGI is $207,811. Ira is primarily a farmer, while Ina is a fee based official. They use standard deduction, earned Qualified Business Income Deduction, have no dependents, and are full-year Iowa residents. The taxpayer is subject to substantial self-employment income and both qualify for Social Security benefits. Their taxes are paid and signatures for consents (7216) are not on file.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+    "contactInformation": {
+      "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+      "firstName": "Ira",
+      "lastName": "Stamp",
+      "address": "7621 Mail Road, Des Moines, IA 50317",
+      "email": "TXOFY24StampMFJ.R_IA02@hrblock.testinator.com",
+      "phone": "8885551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "W-2",
+        "incomeSource": "Farmers Store (Taxpayer)",
+        "incomeAmount": 40033
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "W-2",
+        "incomeSource": "Medicare Wages (Spouse)",
+        "incomeAmount": 49034
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "W-2G",
+        "incomeSource": "Aksarben (Taxpayer)",
+        "incomeAmount": 3000
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "W-2G",
+        "incomeSource": "Harrahs Casino (Spouse)",
+        "incomeAmount": 1250
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "1099-R",
+        "incomeSource": "Meatcutter LU 576C (Taxpayer)",
+        "incomeAmount": 58
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "SSA-1099",
+        "incomeSource": "Social Security (Taxpayer)",
+        "incomeAmount": 5050
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "SSA-1099",
+        "incomeSource": "Social Security (Spouse)",
+        "incomeAmount": 4040
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "1040ScheduleF",
+        "incomeSource": "Stamp Plantation (Schedule F - Farm, Taxpayer)",
+        "incomeAmount": 150500
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "Form 4835",
+        "incomeSource": "The Farm Rental (Taxpayer)",
+        "incomeAmount": 7200
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "1099-G",
+        "incomeSource": "State Refund (Taxpayer)",
+        "incomeAmount": 200
+      },
+      {
+        "userId": "0a048c85-5b65-457b-9ddd-3ea6d1ba8a9b",
+        "formType": "1099-B",
+        "incomeSource": "Form 1099-B Capital Gains (Total, all sources)",
+        "incomeAmount": 11800
+      }
+    ],
+    "adjustedGrossIncome": 207811,
+    "signed7216": false,
+    "summary": "Ira M. Stamp and spouse Ina R. Stamp, both residents of Des Moines, Iowa, filed jointly for the 2023 tax year. They reported a wide variety of income sources including two W-2s (Farmers Store and Medicare Wages), two W-2Gs for gambling winnings (Aksarben, Harrahs Casino), social security benefits for both, retirement income from Meatcutter LU 576C, farm and farm rental income via Schedule F and Form 4835 (Stamp Plantation and The Farm Rental), a state refund, and capital gains from investment activity (Form 1099-B). Their listed AGI is $207,811. Filing status is Married Filing Jointly. The user has not signed a 7216 consent for disclosure. Their summary income reveals a combination of farming operations, gambling, investment, and retirement income, with both filers aged above 60.",
+    "taxType": "SEP",
+    "hasPaid": true
+  },
+  {
+    "userId": "785d1783-05cd-4069-b81a-8292295c3cd7",
+    "contactInformation": {
+      "userId": "785d1783-05cd-4069-b81a-8292295c3cd7",
+      "firstName": "Billingham",
+      "lastName": "Alexander",
+      "address": "123 DIAMOND STREET, Seattle, WA 98117",
+      "email": "STVixonAR0911@hrblock.testinator.com",
+      "phone": "5616516516"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "785d1783-05cd-4069-b81a-8292295c3cd7",
+        "formType": "W-2",
+        "incomeSource": "MALONES CAFE",
+        "incomeAmount": 16300
+      },
+      {
+        "userId": "785d1783-05cd-4069-b81a-8292295c3cd7",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLY COMPANY",
+        "incomeAmount": 9210
+      }
+    ],
+    "adjustedGrossIncome": 25510,
+    "signed7216": false,
+    "summary": "The tax filer is Billingham Alexander, married filing jointly with Mary Alexander. Both are over age 65, residing at 123 DIAMOND STREET, Seattle, WA 98117. Their combined adjusted gross income is $25,510 for the year. Their primary sources of income are two W-2s: $16,300 from Malones Cafe (Billingham) and $9,210 from Acme Supply Company (Mary). The household includes three dependent children, and their return includes credits such as the Earned Income Credit and Child Tax Credit. The user has signed IRS Forms electronically (but has NOT signed 7216/offshore consent). The user has paid for the online tax product and their tax return product type is \u0027OPP\u0027 (WA Working Families Tax Credit).",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "f6f86629-67ca-4294-acee-24c63a2d6335",
+    "contactInformation": {
+      "userId": "f6f86629-67ca-4294-acee-24c63a2d6335",
+      "firstName": "GERTRUDE",
+      "lastName": "WAVIXON",
+      "address": "123 DIAMOND STREET, Seattle, WA 98117",
+      "email": "STVixonAR0911@hrblock.testinator.com",
+      "phone": "5616516516"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "f6f86629-67ca-4294-acee-24c63a2d6335",
+        "formType": "W-2",
+        "incomeSource": "MALONES CAFE",
+        "incomeAmount": 16300
+      },
+      {
+        "userId": "f6f86629-67ca-4294-acee-24c63a2d6335",
+        "formType": "W-2",
+        "incomeSource": "THIS IS EASY",
+        "incomeAmount": 4083
+      }
+    ],
+    "adjustedGrossIncome": 20383,
+    "signed7216": false,
+    "summary": "Gertrude Wavixon, residing at 123 Diamond Street in Seattle, WA, is a 54-year-old taxpayer filing as Head of Household for tax year 2024. She reported income exclusively from two W-2 jobs (Malones Cafe and This Is Easy) totaling $20,383 in wages, with an Adjusted Gross Income of $20,383. Gertrude is not married, has three qualifying dependent children (one of whom passed away during the tax year), and qualifies for substantial refundable credits including the Earned Income Credit and Child Tax Credit. She has signed up and paid for tax services, and her federal and state filings reflect a comprehensive use of credits and proper documentation for dependents as required.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "7a952601-1830-4c4f-9595-bf0c4a8a1b59",
+    "contactInformation": {
+      "userId": "7a952601-1830-4c4f-9595-bf0c4a8a1b59",
+      "firstName": "Ram",
+      "lastName": "Foreign",
+      "address": "1300 Main st, Absecon, NJ 08201",
+      "email": "TXOFY25_F2555userstory_dmob_0528@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "7a952601-1830-4c4f-9595-bf0c4a8a1b59",
+        "formType": "W-2",
+        "incomeSource": "The Good Life",
+        "incomeAmount": 100000
+      },
+      {
+        "userId": "7a952601-1830-4c4f-9595-bf0c4a8a1b59",
+        "formType": "K-1 (foreign partnership)",
+        "incomeSource": "My Partnership",
+        "incomeAmount": 333
+      },
+      {
+        "userId": "7a952601-1830-4c4f-9595-bf0c4a8a1b59",
+        "formType": "Foreign Earned Income Exclusion (Form 2555)",
+        "incomeSource": "Foreign Work/Other",
+        "incomeAmount": 51544
+      }
+    ],
+    "adjustedGrossIncome": 48456,
+    "signed7216": false,
+    "summary": "Ram Foreign is a single filer with a primary address at 1300 Main St, Absecon, NJ. He earned $100,000 in W-2 wages from The Good Life, $333 from a foreign partnership via K-1, and claimed a foreign earned income exclusion of $51,544 using Form 2555 related to work abroad. His adjusted gross income was $48,456 for the tax year. Ram\u0027s primary email is TXOFY25_F2555userstory_dmob_0528@hrblock.testinator.com and his phone is 816-555-1212.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+    "contactInformation": {
+      "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+      "firstName": "Thomas",
+      "lastName": "Retired",
+      "address": "4410 main st, Des Moines, IA 50317",
+      "email": "TXOFY23Retired.PY_IA004@hrblock.testinator.com",
+      "phone": "5155555166"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "Schedule C",
+        "incomeSource": "Easy Does It",
+        "incomeAmount": 4300
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "SSA-1099",
+        "incomeSource": "Social Security",
+        "incomeAmount": 5563
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "RRB-1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD (Tier 1 \u002B Tier 2)",
+        "incomeAmount": 3000
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "RRB-1099R",
+        "incomeSource": "US RAILROAD RETIREMENT BOARD (Tier 2)",
+        "incomeAmount": 10696
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "1099-DIV",
+        "incomeSource": "TGY",
+        "incomeAmount": 380
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "1099-INT",
+        "incomeSource": "Interest",
+        "incomeAmount": 20
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "Capital Gains",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 100
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "Other Gains",
+        "incomeSource": "Other Gains - All Sources",
+        "incomeAmount": -1800
+      },
+      {
+        "userId": "fe31a1b6-5d30-4adb-a43a-9931a9adbd68",
+        "formType": "Alimony Received",
+        "incomeSource": "Alimony",
+        "incomeAmount": 120
+      }
+    ],
+    "adjustedGrossIncome": 38795,
+    "signed7216": false,
+    "summary": "Thomas Retired, age 70, is filing as Single and resides at 4410 main st, Des Moines, IA. He is retired and previously worked under the business \u0027Easy Does It\u0027. His primary sources of income are Social Security, Railroad Retirement Board pensions (both Tier 1 and 2), Schedule C business income from \u0027Easy Does It\u0027, interest, dividends, capital gains, and a small amount of alimony received. His AGI is $38,795. The user has not signed form 7216 for third-party disclosure consent. The tax return is an amended return for the 2023 tax year, and the user has paid for a self-employed/contractor (Schedule C required) tax package (SKU TCD/SEP). He has qualified for various deductions and itemized appropriately.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "7abfa5a2-f334-46fd-8db8-81bf61e75aae",
+    "contactInformation": {
+      "userId": "7abfa5a2-f334-46fd-8db8-81bf61e75aae",
+      "firstName": "Kiddie",
+      "lastName": "Tax",
+      "address": "1 Block Way, Corpus Christi, TX 78410",
+      "email": "TY25_F5695Userstory_domb_522@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "7abfa5a2-f334-46fd-8db8-81bf61e75aae",
+        "formType": "1099-INT",
+        "incomeSource": "Fidelity Investments",
+        "incomeAmount": 1900
+      },
+      {
+        "userId": "7abfa5a2-f334-46fd-8db8-81bf61e75aae",
+        "formType": "1099-DIV",
+        "incomeSource": "Fidelity Investments",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "7abfa5a2-f334-46fd-8db8-81bf61e75aae",
+        "formType": "Capital Gains (Schedule D)",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 200
+      }
+    ],
+    "adjustedGrossIncome": 3100,
+    "signed7216": false,
+    "summary": "The taxpayer, Kiddie Tax, is a 16-year-old individual who files as single and resides at 1 Block Way, Corpus Christi, TX. As a dependent and full-time student, Kiddie had total investment income of $3,100 for tax year 2025, consisting of $1,900 interest and $1,000 ordinary dividends (both from Fidelity Investments), and $200 in capital gains. The return was prepared using the TCD (Deluxe) product, and Kiddie is being claimed as a dependent by a parent. The user provided accurate contact information and consented to electronic communications, but 7216 consent for tax disclosures is not provided. The return is subject to the Kiddie Tax rules, as indicated by the presence of Form 8615.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "dd485364-bdaf-4c9b-841c-dc2111ebc7e6",
+    "contactInformation": {
+      "userId": "dd485364-bdaf-4c9b-841c-dc2111ebc7e6",
+      "firstName": "ram",
+      "lastName": "capital",
+      "address": "4400 main, Kansas City, MO 64111",
+      "email": "TY25_F5695Userstory_domb_522@hrblock.testinator.com",
+      "phone": "5643234569"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "dd485364-bdaf-4c9b-841c-dc2111ebc7e6",
+        "formType": "W-2",
+        "incomeSource": "HRB INC",
+        "incomeAmount": 40000
+      },
+      {
+        "userId": "dd485364-bdaf-4c9b-841c-dc2111ebc7e6",
+        "formType": "Other",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 63887
+      },
+      {
+        "userId": "dd485364-bdaf-4c9b-841c-dc2111ebc7e6",
+        "formType": "Other",
+        "incomeSource": "Sale of Home",
+        "incomeAmount": 70001
+      }
+    ],
+    "adjustedGrossIncome": 102887,
+    "signed7216": false,
+    "summary": "The filer is Ram Capital, filing jointly with spouse Sitha Capital. They live at 4400 Main, Kansas City, MO 64111, and can be contacted at 5643234569 or TY25_F5695Userstory_domb_522@hrblock.testinator.com. Their filing status is Married Filing Jointly. Major income includes $40,000 in W-2 wages from HRB INC, significant capital gains totaling $63,887, and a taxable home sale gain of $70,001. The adjusted gross income (AGI) is $102,887. The filer has not signed the 7216 consent form. Their tax product type is TCD, and the user has paid for the product.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "3f2bd4c0-4cbf-4ff9-924d-037de9f1b6c7",
+    "contactInformation": {
+      "userId": "3f2bd4c0-4cbf-4ff9-924d-037de9f1b6c7",
+      "firstName": "Dennis",
+      "lastName": "Tester",
+      "address": "123 main, Beverly Hills, CA 90210",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "3f2bd4c0-4cbf-4ff9-924d-037de9f1b6c7",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 1322940
+      },
+      {
+        "userId": "3f2bd4c0-4cbf-4ff9-924d-037de9f1b6c7",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "3f2bd4c0-4cbf-4ff9-924d-037de9f1b6c7",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 1350540,
+    "signed7216": false,
+    "summary": "Dennis Tester is a 23-year-old taxpayer who filed as Head of Household for the 2024 tax year, residing at 123 main, Beverly Hills, CA 90210. His AGI is $1,350,540, and he reported major income of $1,322,940 from W-2 wages (ACME SUPPLIES COMPANY), $2,600 from 1099-INT interest (lllllll), and $25,000 from 1099-R pensions (asdf). He has at least one dependent (\u0027one child\u0027), full health coverage, and provided valid contact information including email and phone. He did not electronically sign IRS Form 7216 for consent to disclose tax information. The client paid for the online product and used the TCD/OPP tax product SKU.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "ec64a408-847c-4893-9b44-22092714e06d",
+    "contactInformation": {
+      "userId": "ec64a408-847c-4893-9b44-22092714e06d",
+      "firstName": "Melted",
+      "lastName": "Butter",
+      "address": "400 Terminator Rd APT 12A, Olympia, WA 98501",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "ec64a408-847c-4893-9b44-22092714e06d",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 30000
+      },
+      {
+        "userId": "ec64a408-847c-4893-9b44-22092714e06d",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "ec64a408-847c-4893-9b44-22092714e06d",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 57600,
+    "signed7216": true,
+    "summary": "The filer, Melted Butter (email: Dennis@hrblock.testinator.com, phone: 6143168909), is filing jointly with spouse Burnt Butter. Their primary address is 400 Terminator Rd APT 12A, Olympia, WA 98501. The filing status is Married Filing Jointly. The household consists of the taxpayer (age 24), spouse (age 52), and three dependents: Garlic Butter (5), Apple Butter (4), and Juicy Apple (6). Major sources of income include a W-2 from ACME SUPPLIES COMPANY ($30,000), interest income from \u0027lllllll\u0027 ($2,600), and pension/retirement income via Form 1099-R from \u0027asdf\u0027 ($25,000). The Adjusted Gross Income (AGI) reported is $57,600. The user has signed consent (7216) and has paid for an online tax product. No Schedule C, K-1, 1099-NEC, 1099-MISC, or 1099-DIV forms are found.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "6625cd00-524f-4881-89cc-bfec9b884603",
+    "contactInformation": {
+      "userId": "6625cd00-524f-4881-89cc-bfec9b884603",
+      "firstName": "Fred",
+      "lastName": "Retest",
+      "address": "123 Uptown Hill, Seattle, WA 98101",
+      "email": "ALRetestAL_2024@hrblock.testinator.com",
+      "phone": "6516561516"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "6625cd00-524f-4881-89cc-bfec9b884603",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 25000
+      },
+      {
+        "userId": "6625cd00-524f-4881-89cc-bfec9b884603",
+        "formType": "W-2",
+        "incomeSource": "DIAMONDS TAVERN",
+        "incomeAmount": 15000
+      }
+    ],
+    "adjustedGrossIncome": 40000,
+    "signed7216": false,
+    "summary": "Fred Retest and spouse Caroline Retest filed a 2024 tax return jointly (Married Filing Jointly) and reside at 123 Uptown Hill, Seattle, WA 98101. Both are US citizens with occupations as Social Media Creator and Bartender, respectively. Their combined AGI is $40,000, derived from W-2 wages ($25,000 from ACME SUPPLIES COMPANY and $15,000 from DIAMONDS TAVERN). They have one dependent child, qualify for the Earned Income Credit and Child Tax Credit, and have paid for the product. They did not sign IRS Form 7216 consent for third-party disclosure.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+    "contactInformation": {
+      "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+      "firstName": "Jack",
+      "lastName": "Test",
+      "address": "105 main street, Spring, TX 77388",
+      "email": "ty25diag_dmob_@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+        "formType": "W-2",
+        "incomeSource": "block",
+        "incomeAmount": 25000
+      },
+      {
+        "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+        "formType": "1099-INT",
+        "incomeSource": "NATIONAL FINANCIAL SERVICES LLC",
+        "incomeAmount": 0.08
+      },
+      {
+        "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+        "formType": "1099-DIV",
+        "incomeSource": "NATIONAL FINANCIAL SERVICES LLC",
+        "incomeAmount": 72
+      },
+      {
+        "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+        "formType": "Schedule C",
+        "incomeSource": "a bokay (floral business)",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "0fee27c6-4e24-4032-ab51-c9a2fbdcf1c5",
+        "formType": "Capital Gains",
+        "incomeSource": "Capital Gains - All Sources",
+        "incomeAmount": 75
+      }
+    ],
+    "adjustedGrossIncome": 25147,
+    "signed7216": false,
+    "summary": "Jack Test, residing at 105 main street, Spring, TX 77388, is the Head of Household and has a dependent child. Jack earned $25,000 in wages from his employer \u0027block\u0027, received $0.08 in interest and $72 in dividends (both from NATIONAL FINANCIAL SERVICES LLC), and reported $75 in capital gains. Jack operates a business named \u0027a bokay\u0027 under Schedule C, classified as a floral business, but reported no income or expenses for it this year. The total AGI is $25,147. He did not sign Form 7216. Jack has paid for the tax product (TCD).",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "478852e6-405f-4bbc-a8dd-f9a2f8cd40dd",
+    "contactInformation": {
+      "userId": "478852e6-405f-4bbc-a8dd-f9a2f8cd40dd",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "ty25diag_a_dmob_@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with ID 478852e6-405f-4bbc-a8dd-f9a2f8cd40dd and email ty25diag_a_dmob_@hrblock.testinator.com started a 2025 tax return in the HR Block Digital system. There is currently no income information, address, or names available in the data provided. It appears this is a new or early-stage tax file setup, and there is no record of signed 7216 consent or entered AGI. The user has a paid product and selected product sku is TCF.",
+    "taxType": "TCF",
+    "hasPaid": true
+  },
+  {
+    "userId": "0441e9a8-32dc-4982-bf0e-89d9f4d2f8a9",
+    "contactInformation": {
+      "userId": "0441e9a8-32dc-4982-bf0e-89d9f4d2f8a9",
+      "firstName": "Melted",
+      "lastName": "Butter",
+      "address": "400 Terminator Rd APT 12A, Olympia, WA 98501",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "0441e9a8-32dc-4982-bf0e-89d9f4d2f8a9",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 30000
+      },
+      {
+        "userId": "0441e9a8-32dc-4982-bf0e-89d9f4d2f8a9",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      },
+      {
+        "userId": "0441e9a8-32dc-4982-bf0e-89d9f4d2f8a9",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      }
+    ],
+    "adjustedGrossIncome": 57600,
+    "signed7216": false,
+    "summary": "Melted Butter and spouse Burnt Butter filed jointly for tax year 2024 and reside in Olympia, WA with two dependents. Their return shows an adjusted gross income of $57,600, mainly from wages (W-2), retirement distributions (1099-R), and interest income (1099-INT). The household qualifies for child tax credits and care credits, has standard deductions, and both filers are U.S. citizens. They have two qualifying children, ages 4 and 6, and full health insurance coverage was maintained throughout the year. The primary contact phone is 6143168909 and the email is Dennis@hrblock.testinator.com. The user has paid for the product and selected tax product type OPP.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "97b61442-99b1-4826-95da-6177bcf0f525",
+    "contactInformation": {
+      "userId": "97b61442-99b1-4826-95da-6177bcf0f525",
+      "firstName": "Test",
+      "lastName": "CTMisc",
+      "address": "1155 college st, Hartford, CT 06106",
+      "email": "CTMiscWithholding_QA25@hrblock.testinator.com",
+      "phone": "8165555555"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "97b61442-99b1-4826-95da-6177bcf0f525",
+        "formType": "W-2",
+        "incomeSource": "good grocer",
+        "incomeAmount": 20050
+      },
+      {
+        "userId": "97b61442-99b1-4826-95da-6177bcf0f525",
+        "formType": "1099-MISC",
+        "incomeSource": "MISC",
+        "incomeAmount": 1000
+      }
+    ],
+    "adjustedGrossIncome": 21050,
+    "signed7216": false,
+    "summary": "Test CTMisc is a single filer, age 20, living at 1155 college st, Hartford, CT 06106. Their 2024 federal return shows an Adjusted Gross Income (AGI) of $21,050, consisting of $20,050 in W-2 wages from \u0027good grocer\u0027 and $1,000 in miscellaneous income reported on a 1099-MISC. The user has paid for the Deluxe (TCD) online tax product. They have not signed Form 7216 consent. All contact details for Test CTMisc are provided and the user completed the return in Connecticut.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "ac0eea83-4f36-4169-a76f-b04d6ed42171",
+    "contactInformation": {
+      "userId": "ac0eea83-4f36-4169-a76f-b04d6ed42171",
+      "firstName": "Dennis",
+      "lastName": "Tester",
+      "address": "123 main, Olympia, WA 98501",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "ac0eea83-4f36-4169-a76f-b04d6ed42171",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 1322940
+      },
+      {
+        "userId": "ac0eea83-4f36-4169-a76f-b04d6ed42171",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "ac0eea83-4f36-4169-a76f-b04d6ed42171",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 1350540,
+    "signed7216": false,
+    "summary": "Dennis Tester is filing as Head of Household for tax year 2024 and resides at 123 main, Olympia, WA 98501. The taxpayer has three dependents and earns most of their income from wages (W-2; $1,322,940) at ACME SUPPLIES COMPANY, along with interest income from a 1099-INT ($2,600), and retirement income from a 1099-R ($25,000) from asdf. Their AGI is $1,350,540. They are 24 years old, with an email contact of Dennis@hrblock.testinator.com and phone number 6143168909. 7216 consent is not signed. The user has paid for the tax product and is filing a standard individual tax form. The selected product SKU is OPP.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "c8281431-c543-4273-ae74-f7e82537cba1",
+    "contactInformation": {
+      "userId": "c8281431-c543-4273-ae74-f7e82537cba1",
+      "firstName": "Additional",
+      "lastName": "Dependent",
+      "address": "123 main, Olympia, WA, 98501",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "c8281431-c543-4273-ae74-f7e82537cba1",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 30000
+      },
+      {
+        "userId": "c8281431-c543-4273-ae74-f7e82537cba1",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "c8281431-c543-4273-ae74-f7e82537cba1",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 57600,
+    "signed7216": false,
+    "summary": "The taxpayer Additional Dependent, residing at 123 main, Olympia, WA, 98501, is filing as Head of Household for the 2024 tax year. The filer is 24 years old and has two dependents, SOUR FRUIT and JUICY FRUIT. Reported income includes $30,000 in wages from ACME SUPPLIES COMPANY (W-2), $2,600 in interest income from \u0027lllllll\u0027 (1099-INT), and $25,000 in pension/retirement income from \u0027asdf\u0027 (1099-R). The adjusted gross income (AGI) is $57,600. The return includes claims for the Child Tax Credit and standard deductions, and the taxpayer has paid for the tax product according to the user data.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "8e609984-8f5d-4362-b35d-d78ba810754d",
+    "contactInformation": {
+      "userId": "8e609984-8f5d-4362-b35d-d78ba810754d",
+      "firstName": "Primary",
+      "lastName": "Adoption",
+      "address": "1100 main, Kansas City, MO 64111",
+      "email": "TXOFY25_F8839userstory_PLE_dmob_0529@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Married Filing Jointly",
+    "incomeForms": [
+      {
+        "userId": "8e609984-8f5d-4362-b35d-d78ba810754d",
+        "formType": "W-2",
+        "incomeSource": "JOB TP",
+        "incomeAmount": 88450
+      },
+      {
+        "userId": "8e609984-8f5d-4362-b35d-d78ba810754d",
+        "formType": "W-2",
+        "incomeSource": "Reynolds",
+        "incomeAmount": 65000
+      },
+      {
+        "userId": "8e609984-8f5d-4362-b35d-d78ba810754d",
+        "formType": "1099-DIV",
+        "incomeSource": "Etrade",
+        "incomeAmount": 100
+      }
+    ],
+    "adjustedGrossIncome": 153550,
+    "signed7216": false,
+    "summary": "The taxpayers, Primary Adoption and spouse Susie Adoption, are filing jointly for tax year 2025. Their primary address is 1100 main, Kansas City, MO 64111. The tax return shows significant W-2 income from two employers (JOB TP and Reynolds) totaling $153,450, plus $100 in dividend income from Etrade, for a combined AGI of $153,550. They are claiming credits including Child Tax Credit and the Adoption Credit (Form 8839), have a dependent child, and are taking the standard deduction. Health insurance was purchased through a marketplace for the full year. The user has not signed the 7216 consent.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "d68cd511-5e6b-424d-bbf3-a7ae573a658f",
+    "contactInformation": {
+      "userId": "d68cd511-5e6b-424d-bbf3-a7ae573a658f",
+      "firstName": "SchD",
+      "lastName": "Base",
+      "address": "132 Turner Ave, Irving, TX 75014",
+      "email": "TY25_Userstory4267239_528@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "d68cd511-5e6b-424d-bbf3-a7ae573a658f",
+        "formType": "W-2",
+        "incomeSource": "HRB INC",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "d68cd511-5e6b-424d-bbf3-a7ae573a658f",
+        "formType": "Schedule C",
+        "incomeSource": "dasda (Consulting)",
+        "incomeAmount": 0
+      },
+      {
+        "userId": "d68cd511-5e6b-424d-bbf3-a7ae573a658f",
+        "formType": "1099-INT",
+        "incomeSource": "Fidelity Investments",
+        "incomeAmount": 40000
+      }
+    ],
+    "adjustedGrossIncome": 40000,
+    "signed7216": false,
+    "summary": "This user, SchD Base, files jointly with their spouse Stocks Base. Their residence is at 132 Turner Ave, Irving, TX 75014. The filing status is Married Filing Jointly for tax year 2025, and their AGI is $40,000, sourced principally from investment income (interest from Fidelity Investments), with reported forms including a W-2, Schedule C (consulting business named \u0027dasda\u0027), and significant 1099-INT income. The 7216 consent form was not signed. Their preferred email is TY25_Userstory4267239_528@hrblock.testinator.com and phone is 8165551212.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "29245c56-7a55-4979-ab8f-f7247091f82f",
+    "contactInformation": {
+      "userId": "29245c56-7a55-4979-ab8f-f7247091f82f",
+      "firstName": "Additional",
+      "lastName": "Dependent",
+      "address": "123 main, Olympia, WA 98501",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "29245c56-7a55-4979-ab8f-f7247091f82f",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 30000
+      },
+      {
+        "userId": "29245c56-7a55-4979-ab8f-f7247091f82f",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "29245c56-7a55-4979-ab8f-f7247091f82f",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 10000
+      }
+    ],
+    "adjustedGrossIncome": 42600,
+    "signed7216": false,
+    "summary": "The taxpayer, Additional Dependent, is a Head of Household living in Olympia, WA, with two qualifying dependent daughters (Sour and Juicy Fruit). For tax year 2024, the filer reported W-2 wages of $30,000 from ACME SUPPLIES COMPANY, interest income of $2,600 (1099-INT), and retirement income of $10,000 (1099-R), totaling an adjusted gross income (AGI) of $42,600. The return includes standard or itemized deductions as calculated, qualifies for earned income and child tax credits, and the user\u2019s contact is Dennis@hrblock.testinator.com, phone 6143168909. The user has signed up for and paid for the product and completed the process through H\u0026R Block online platform. The user has not signed IRS Form 7216 disclosure.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "761cf612-e3f8-4f6d-a0a8-cb06f44efa28",
+    "contactInformation": {
+      "userId": "761cf612-e3f8-4f6d-a0a8-cb06f44efa28",
+      "firstName": "Dennis",
+      "lastName": "Tester",
+      "address": "123 main, Beverly Hills, CA 90210",
+      "email": "Dennis@hrblock.testinator.com",
+      "phone": "6143168909"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "761cf612-e3f8-4f6d-a0a8-cb06f44efa28",
+        "formType": "W-2",
+        "incomeSource": "ACME SUPPLIES COMPANY",
+        "incomeAmount": 1322940
+      },
+      {
+        "userId": "761cf612-e3f8-4f6d-a0a8-cb06f44efa28",
+        "formType": "1099-INT",
+        "incomeSource": "lllllll",
+        "incomeAmount": 2600
+      },
+      {
+        "userId": "761cf612-e3f8-4f6d-a0a8-cb06f44efa28",
+        "formType": "1099-R",
+        "incomeSource": "asdf",
+        "incomeAmount": 25000
+      }
+    ],
+    "adjustedGrossIncome": 1350540,
+    "signed7216": false,
+    "summary": "Dennis Tester is the taxpayer filing as Head of Household and resides at 123 main, Beverly Hills, CA 90210. He earned income primarily from employment (W-2 at ACME SUPPLIES COMPANY), as well as interest reported on Form 1099-INT and retirement income from a 1099-R. His adjusted gross income is $1,350,540 for the tax year. He claims one dependent (a daughter), and generally takes the standard deduction. Dennis has paid for the tax product and is electronically filing his federal and California state tax returns.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "8519db60-1e9f-454b-b49d-1087ac1450b2",
+    "contactInformation": {
+      "userId": "8519db60-1e9f-454b-b49d-1087ac1450b2",
+      "firstName": "REFUNDABLE",
+      "lastName": "CREDITS",
+      "address": "1 CREDITS WAY, Santa Fe, NM 87501",
+      "email": "NMerror695_@hrblock.testinator.com",
+      "phone": "4305551212"
+    },
+    "filingStatus": "HeadOfHousehold",
+    "incomeForms": [
+      {
+        "userId": "8519db60-1e9f-454b-b49d-1087ac1450b2",
+        "formType": "W-2",
+        "incomeSource": "HRB",
+        "incomeAmount": 20000
+      }
+    ],
+    "adjustedGrossIncome": 20000,
+    "signed7216": false,
+    "summary": "The taxpayer, REFUNDABLE CREDITS, is filing as Head of Household and resides at 1 CREDITS WAY, Santa Fe, NM 87501. The primary source of income reported is from W-2 wages, totaling $20,000 for the tax year. The taxpayer is 68 years old and has one qualifying child (YOUNG CREDITS, age 16) as a dependent, who also lives at the same address. The filing includes tax credits such as Earned Income Credit and Additional Child Tax Credit, with itemized deductions exceeding the standard deduction. The taxpayer\u0027s adjusted gross income (AGI) is $20,000 and all contact details including a valid email and phone number are provided.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "8db580eb-6412-4b25-b2b2-0d2554289645",
+    "contactInformation": {
+      "userId": "8db580eb-6412-4b25-b2b2-0d2554289645",
+      "firstName": "Molly",
+      "lastName": "KS-MOP",
+      "address": "765 Kitchen Road Mop APT 123, La Cygne, KS 66040",
+      "email": "STMopKS1122@hrblock.testinator.com",
+      "phone": "3005551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "8db580eb-6412-4b25-b2b2-0d2554289645",
+        "formType": "W-2",
+        "incomeSource": "John Sweep",
+        "incomeAmount": 8200
+      },
+      {
+        "userId": "8db580eb-6412-4b25-b2b2-0d2554289645",
+        "formType": "1099-INT",
+        "incomeSource": "Compass Bank",
+        "incomeAmount": 200
+      },
+      {
+        "userId": "8db580eb-6412-4b25-b2b2-0d2554289645",
+        "formType": "1099-INT",
+        "incomeSource": "Green Bank",
+        "incomeAmount": 150
+      }
+    ],
+    "adjustedGrossIncome": 8550,
+    "signed7216": false,
+    "summary": "The taxpayer, Molly KS-MOP, resides at 765 Kitchen Road Mop APT 123, La Cygne, KS 66040. She files as Single for the tax year 2024 and is around 76 years old. Her main sources of income are a W-2 from John Sweep ($8,200) and two 1099-INT forms indicating bank interest from Compass Bank ($200) and Green Bank ($150). The 2024 adjusted gross income totals $8,550. The user did not sign consent form 7216. Contact information includes the email STMopKS1122@hrblock.testinator.com and phone number 3005551212.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+    "contactInformation": {
+      "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+      "firstName": "SAM",
+      "lastName": "MIStudent",
+      "address": "1155 college st, Battle Creek, MI 49015",
+      "email": "MItAmendedSTG25@hrblock.testinator.com",
+      "phone": "8165555555"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+        "formType": "W-2",
+        "incomeSource": "good grocer",
+        "incomeAmount": 18400
+      },
+      {
+        "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+        "formType": "OtherIncome",
+        "incomeSource": "Gambling Winnings",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+        "formType": "OtherIncome",
+        "incomeSource": "Taxable Scholarship Fellowship Amount",
+        "incomeAmount": 2050
+      },
+      {
+        "userId": "f0b76299-52c3-4501-8e74-c310e3722fea",
+        "formType": "1099-MISC",
+        "incomeSource": "Payer",
+        "incomeAmount": 500
+      }
+    ],
+    "adjustedGrossIncome": 40450,
+    "signed7216": false,
+    "summary": "SAM MIStudent, a 22-year-old single filer residing at 1155 College St, Battle Creek, MI 49015, completed a 2024 tax return with an adjusted gross income of $40,450. Income sources included W-2 wages from \u0027good grocer\u0027 ($18,400), gambling winnings ($20,000), taxable scholarship/fellowship income ($2,050), and a 1099-MISC for $500. Contact: 8165555555, email: MItAmendedSTG25@hrblock.testinator.com. The user is being claimed as a dependent, is a full-time student, and has paid for the TCD (Deluxe) tax product. 7216 consent was not signed.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+    "contactInformation": {
+      "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+      "firstName": "SAM",
+      "lastName": "MIStudent",
+      "address": "1155 college st, Battle Creek, MI 49015",
+      "email": "MIAmended_STG25@hrblock.testinator.com",
+      "phone": "8165555555"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+        "formType": "W-2",
+        "incomeSource": "good grocer",
+        "incomeAmount": 18400
+      },
+      {
+        "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+        "formType": "Other Income",
+        "incomeSource": "Gambling Winnings",
+        "incomeAmount": 20000
+      },
+      {
+        "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+        "formType": "Other Income",
+        "incomeSource": "Taxable Scholarship/Fellowship",
+        "incomeAmount": 2050
+      },
+      {
+        "userId": "671597ef-f124-4172-af25-a8526d6c358c",
+        "formType": "1099",
+        "incomeSource": "Payer",
+        "incomeAmount": 500
+      }
+    ],
+    "adjustedGrossIncome": 40450,
+    "signed7216": false,
+    "summary": "SAM MIStudent, age 21, is the primary filer and can be claimed as a dependent. They reside at 1155 college st, Battle Creek, MI 49015. The taxpayer\u2019s main sources of income are from wages ($18,400 via a W-2 from good grocer), gambling winnings ($20,000), and a taxable scholarship/fellowship ($2,050). There is also evidence of a 1099 income of $500. SAM files as Single for the 2024 tax year, with a federal AGI of $40,450, and has itemized deductions on the return. The return includes both Michigan (resident) and Missouri (nonresident wage) income details. SAM is a full-time student and a US citizen. The user has paid for the product and is using product SKU TCD (Deluxe). Form 7216 consent is not signed.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "9147fd1a-28bf-4700-bf40-1d594479e441",
+    "contactInformation": {
+      "userId": "9147fd1a-28bf-4700-bf40-1d594479e441",
+      "firstName": "test",
+      "lastName": "t",
+      "address": "test address, New York, NY 10001",
+      "email": "eep_staging_dmob_2@hrblock.testinator.com",
+      "phone": "9786757654"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "9147fd1a-28bf-4700-bf40-1d594479e441",
+        "formType": "W-2",
+        "incomeSource": "test employer",
+        "incomeAmount": 15000
+      }
+    ],
+    "adjustedGrossIncome": 15000,
+    "signed7216": false,
+    "summary": "The user \u0027test t\u0027 filed taxes for the 2025 tax year as a single filer, residing in New York, NY. The taxpayer is 30 years old, with W-2 wage income of $15,000 from test employer. Adjusted Gross Income (AGI) matches total income at $15,000, and the user claimed the standard deduction. The user\u0027s contact information includes the address \u0027test address, New York, NY 10001\u0027, email \u0027eep_staging_dmob_2@hrblock.testinator.com\u0027, and phone number \u00279786757654\u0027. Earned Income Credit (EIC) was also calculated. The user signed Form 8879 for electronic filing, but there is no indication from the extracted data that IRS Form 7216 (consent to disclose tax information) was signed.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "c43e9799-1621-421c-a2c9-48aff9b71aef",
+    "contactInformation": {
+      "userId": "c43e9799-1621-421c-a2c9-48aff9b71aef",
+      "firstName": "business",
+      "lastName": "deductions",
+      "address": "121 Main, Kansas City, MO 64111",
+      "email": "TXOTY25GV_dmob_4499418@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "c43e9799-1621-421c-a2c9-48aff9b71aef",
+        "formType": "W-2",
+        "incomeSource": "work",
+        "incomeAmount": 75000
+      },
+      {
+        "userId": "c43e9799-1621-421c-a2c9-48aff9b71aef",
+        "formType": "Schedule D",
+        "incomeSource": "sale of property",
+        "incomeAmount": -20000
+      }
+    ],
+    "adjustedGrossIncome": 72000,
+    "signed7216": false,
+    "summary": "The filer, business deductions (SSN: 203-01-9418), is single, age 40, and resides at 121 Main, Kansas City, MO 64111. For tax year 2025, the primary income is $75,000 from W-2 wages, with a reported capital loss of $20,000 from the sale of property, resulting in an adjusted gross income (AGI) of $72,000. The taxpayer\u0027s contact email is TXOTY25GV_dmob_4499418@hrblock.testinator.com and primary phone is 8165551212. The filer has paid for the tax software product, is a US citizen, and claims standard deductions. No spouse or dependents are reported, and the user is not claimed as a dependent by another.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+    "contactInformation": {
+      "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+      "firstName": "Childcare",
+      "lastName": "Retest",
+      "address": "4400 Northeast APT 12345, Battle Creek, MI 49015",
+      "email": "MIAmended2_STG25@hrblock.testinator.com",
+      "phone": "8005001111"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+        "formType": "W-2",
+        "incomeSource": "Church Wages",
+        "incomeAmount": 13702
+      },
+      {
+        "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+        "formType": "W-2",
+        "incomeSource": "I Dont Care About It",
+        "incomeAmount": 5500
+      },
+      {
+        "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+        "formType": "Schedule C",
+        "incomeSource": "Baby Sitting",
+        "incomeAmount": 7203
+      },
+      {
+        "userId": "42827583-f81e-4d52-b68f-00eaefb4f2f6",
+        "formType": "Schedule F",
+        "incomeSource": "Hay Crops",
+        "incomeAmount": 3689
+      }
+    ],
+    "adjustedGrossIncome": 27698,
+    "signed7216": false,
+    "summary": "The taxpayer, Childcare Retest, is married filing jointly with spouse Overworked Underappreciated. Their address is 4400 Northeast APT 12345, Battle Creek, MI 49015. They reported wage income from two W-2s (Church Wages and I Dont Care About It), as well as self-employment income through Schedule C (Baby Sitting) and farming income through Schedule F (Hay Crops). The total adjusted gross income (AGI) is $27,698, and the couple has one qualifying dependent. The taxpayers have paid for the product, and their chosen tax filing SKU is TCD. The return includes signed e-file authorization forms, but consent for IRS 7216 disclosure is not recorded as signed (false).",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "e036bc4c-eb24-4b8a-966e-3f20f2f1126c",
+    "contactInformation": {
+      "userId": "e036bc4c-eb24-4b8a-966e-3f20f2f1126c",
+      "firstName": "James",
+      "lastName": "Test",
+      "address": "4900 Main, Kansas City, MO 64111",
+      "email": "TXOFY25_5405_Content_dmob_0530@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "e036bc4c-eb24-4b8a-966e-3f20f2f1126c",
+        "formType": "W-2",
+        "incomeSource": "JOB",
+        "incomeAmount": 117000
+      }
+    ],
+    "adjustedGrossIncome": 117000,
+    "signed7216": false,
+    "summary": "James Test and Jane Test, both aged 49, are married and filed their 2025 tax return jointly (Married Filing Jointly), residing at 4900 Main, Kansas City, MO 64111. James reported $117,000 in wages from employment (W-2, employer: JOB) as the primary source of household income. The adjusted gross income (AGI) for 2025 is $117,000. The users have not signed IRS consent form 7216 for third-party tax information use or disclosure. Their contact email is TXOFY25_5405_Content_dmob_0530@hrblock.testinator.com and main phone is 8165551212.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "ae72799a-d88b-47b2-b005-80cc353f9c36",
+    "contactInformation": {
+      "userId": "ae72799a-d88b-47b2-b005-80cc353f9c36",
+      "firstName": "Zeno",
+      "lastName": "Mathews",
+      "address": "Lane 123 west APT 123, Auburn, WA 98001",
+      "email": "JJTestAccount001@hrblock.testinator.com",
+      "phone": "9895891100"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "ae72799a-d88b-47b2-b005-80cc353f9c36",
+        "formType": "W-2",
+        "incomeSource": "Terranet",
+        "incomeAmount": 15000
+      }
+    ],
+    "adjustedGrossIncome": 15000,
+    "signed7216": false,
+    "summary": "Zeno Mathews and his spouse, Bindu Zeno, filed a joint (Married Filing Jointly) 2025 federal and state tax return, with their primary residence in Auburn, WA. Zeno works as a Civil Engineer and earned $15,000 in wages from Terranet, as reported on his W-2. The couple has an Adjusted Gross Income (AGI) of $15,000. Their mailing address is Lane 123 west APT 123, Auburn, WA 98001, and their contact email is JJTestAccount001@hrblock.testinator.com, with phone number 9895891100. The user has not signed consent Form 7216 for disclosure of tax information.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "3c444fd4-8677-4246-aaff-4a65f3632d5b",
+    "contactInformation": {
+      "userId": "3c444fd4-8677-4246-aaff-4a65f3632d5b",
+      "firstName": "Sam",
+      "lastName": "Kunjumone",
+      "address": "test address, Mission, KS 66202",
+      "email": "samtdfdfest230514_dmob_1234@hrblock.testinator.com",
+      "phone": "3543543543"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "3c444fd4-8677-4246-aaff-4a65f3632d5b",
+        "formType": "W-2",
+        "incomeSource": "hrb",
+        "incomeAmount": 5000
+      }
+    ],
+    "adjustedGrossIncome": 5000,
+    "signed7216": false,
+    "summary": "Sam Kunjumone is a single filer, age 44, residing at test address, Mission, KS 66202. For the 2025 tax year, Sam had only W-2 wage income totaling $5,000 from employer HRB, with an AGI of $5,000. The user has no spouse or dependents, and reported a Kansas residency. The user\u0027s primary contact is via email (samtdfdfest230514_dmob_1234@hrblock.testinator.com) and phone (3543543543). No self-employment, K-1, Schedule C, or 1099 income forms were present and Form 7216 was not signed.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "dce00deb-1a35-4ee6-9742-1057584c1f23",
+    "contactInformation": {
+      "userId": "dce00deb-1a35-4ee6-9742-1057584c1f23",
+      "firstName": "DELBERT",
+      "lastName": "SINGLETON",
+      "address": "123 4TH STREET, Guilderland, NY 12084",
+      "email": "NYSingle0522_TY24QA_W2Box11@hrblock.testinator.com",
+      "phone": "8173334141"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "dce00deb-1a35-4ee6-9742-1057584c1f23",
+        "formType": "W-2",
+        "incomeSource": "JOB",
+        "incomeAmount": 37215
+      }
+    ],
+    "adjustedGrossIncome": 37215,
+    "signed7216": true,
+    "summary": "Delbert Singleton, age 23, is a single filer residing at 123 4TH STREET, Guilderland, NY 12084. The only income reported is from W-2 wages with an employer named JOB, totaling $37,215. His AGI for the year is also $37,215. Delbert has signed the necessary 7216 tax disclosure consent. Contact information includes email NYSingle0522_TY24QA_W2Box11@hrblock.testinator.com and phone number 8173334141. He is a full-year New York resident and his filing status is Single.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "7e8ae6c9-88e5-4a67-a7e0-0e73b798c9ad",
+    "contactInformation": {
+      "userId": "7e8ae6c9-88e5-4a67-a7e0-0e73b798c9ad",
+      "firstName": "OWE",
+      "lastName": "AMENDED",
+      "address": "200 AMENDED WAY, Lansing, MI 48901",
+      "email": "MIamendedDue_STG25@hrblock.testinator.com",
+      "phone": "8885551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "7e8ae6c9-88e5-4a67-a7e0-0e73b798c9ad",
+        "formType": "W-2",
+        "incomeSource": "HRB",
+        "incomeAmount": 50000
+      }
+    ],
+    "adjustedGrossIncome": 50000,
+    "signed7216": true,
+    "summary": "The taxpayer, OWE AMENDED, filed as Single for the 2024 tax year. Residing at 200 AMENDED WAY, Lansing, MI 48901, and aged 55, the taxpayer had $50,000 in W-2 wages from employer HRB. No evidence of Schedule C, K-1, or 1099-NEC/INT/DIV/MISC income is present. The taxpayer\u0027s adjusted gross income is $50,000 and their electronic consent 7216 was provided. The taxpayer has completed payment for their product and filed a Michigan return as well.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+    "contactInformation": {
+      "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+      "firstName": "Childcare",
+      "lastName": "Retest",
+      "address": "4400 NE Labor Rd APT 12345, Albany, NY 12261",
+      "email": "TXONyYnkrsNYCW2Over500_092123@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+        "formType": "W-2",
+        "incomeSource": "Church Wages",
+        "incomeAmount": 25652
+      },
+      {
+        "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+        "formType": "W-2",
+        "incomeSource": "I Dont Care About It",
+        "incomeAmount": 14700
+      },
+      {
+        "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+        "formType": "Schedule C",
+        "incomeSource": "Baby Sitting (Daycare)",
+        "incomeAmount": 7203
+      },
+      {
+        "userId": "a1e75ea0-a8b5-4ce4-af99-bae4b2cc2fc4",
+        "formType": "Schedule F",
+        "incomeSource": "Overworked Resort Hay Crops",
+        "incomeAmount": 3689
+      }
+    ],
+    "adjustedGrossIncome": 47919,
+    "signed7216": true,
+    "summary": "The filer, Childcare Retest (SSN: 431343434), and spouse Overworked Underappreciated (SSN: 431343435) filed a married filing jointly tax return for the 2022 tax year. They reside at 4400 NE Labor Rd APT 12345, Albany, NY 12261, and have one qualifying child dependent born in 2020. Their adjusted gross income (AGI) is $47,919, composed primarily of two W-2 jobs, self-employment (Schedule C - Baby Sitting/Daycare), and farm income (Schedule F - Hay Crops). Both have valid SSNs, U.S. citizenship, and no indicator of being claimable as dependents. Charitable contributions were made, and both filers are under age 65. They have paid for their tax product, and their federal product type is \u0027SEP\u0027 (Self-Employed).",
+    "taxType": "SEP",
+    "hasPaid": true
+  },
+  {
+    "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+    "contactInformation": {
+      "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+      "firstName": "Childcare",
+      "lastName": "Retest",
+      "address": "4400 NE Labor Rd APT 12345, Albany, NY 12261",
+      "email": "TXONyYnkrsNYCW2Over500_092123@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+        "formType": "W-2",
+        "incomeSource": "Church Wages",
+        "incomeAmount": 25652
+      },
+      {
+        "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+        "formType": "W-2",
+        "incomeSource": "I Dont Care About It",
+        "incomeAmount": 14700
+      },
+      {
+        "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+        "formType": "Schedule C",
+        "incomeSource": "Baby Sitting (Daycare, Overworked Underappreciated)",
+        "incomeAmount": 4814
+      },
+      {
+        "userId": "d69f816e-a6d2-4784-83cc-c23c4013ae92",
+        "formType": "Schedule F",
+        "incomeSource": "Farm Income (Hay Crops)",
+        "incomeAmount": 2690
+      }
+    ],
+    "adjustedGrossIncome": 47919,
+    "signed7216": true,
+    "summary": "The taxpayer is Childcare Retest, age 63, married filing jointly with spouse Overworked Underappreciated. They reside at 4400 NE Labor Rd APT 12345, Albany, NY 12261. The 2022 return includes income from two W-2s (Church Wages and I Dont Care About It), a Schedule C business (Baby Sitting/Daycare, owned by the spouse), and a Schedule F farm (Hay Crops, spouse). The couple has one qualifying child, and the adjusted gross income is $47,919. The user has signed form 7216 and paid for their tax product. The tax product type is TCD, and the tax year is 2022.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "c49ca3c4-4b2c-4f81-b1c2-c5c64a6c2cc3",
+    "contactInformation": {
+      "userId": "c49ca3c4-4b2c-4f81-b1c2-c5c64a6c2cc3",
+      "firstName": "REFandCITY",
+      "lastName": "AMENDED",
+      "address": "200 AMENDED WAY, Lansing, MI 48901",
+      "email": "MIamendRef_City_STG25@hrblock.testinator.com",
+      "phone": "8885551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "c49ca3c4-4b2c-4f81-b1c2-c5c64a6c2cc3",
+        "formType": "W-2",
+        "incomeSource": "HRB",
+        "incomeAmount": 50000
+      }
+    ],
+    "adjustedGrossIncome": 50000,
+    "signed7216": false,
+    "summary": "The filer, REFandCITY AMENDED, is a 55-year-old single taxpayer residing at 200 AMENDED WAY, Lansing, MI 48901. For tax year 2024, the filer earned $50,000 in wages (W-2) from HRB and filed as Single. The adjusted gross income is $50,000, with the standard deduction applied. The taxpayer\u0027s contact information is on file, including email and phone number. Consent for the IRS form 7216 (disclosure) was not given. The user lives in Michigan and has paid for the tax product. There are no reported K1s, Schedule C, or 1099 types of income, indicating a simple wage-based return.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "f55b0e6d-c819-473a-a0ed-476fb06736ac",
+    "contactInformation": {
+      "userId": "f55b0e6d-c819-473a-a0ed-476fb06736ac",
+      "firstName": "OWE",
+      "lastName": "AMENDED",
+      "address": "200 AMENDED WAY, Lansing, MI 48901",
+      "email": "MIamendedDue_STG25@hrblock.testinator.com",
+      "phone": "8885551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "f55b0e6d-c819-473a-a0ed-476fb06736ac",
+        "formType": "W-2",
+        "incomeSource": "HRB",
+        "incomeAmount": 50000
+      }
+    ],
+    "adjustedGrossIncome": 50000,
+    "signed7216": false,
+    "summary": "OWE AMENDED is a single filer who lives at 200 AMENDED WAY, Lansing, MI 48901. The taxpayer is 55 years old and is a full-year Michigan resident. Their reported adjusted gross income (AGI) for tax year 2024 is $50,000, all of which comes from W-2 wages with HRB as the employer. The user\u0027s filing includes a direct deposit refund option, has no business or K-1 income, and they have signed the required e-filing PIN. The user has paid for the state tax product and filed an amended return for Michigan using digital DIY e-filing. Form 7216 consent (disclosure of tax info) is not signed.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "20d58544-209d-4fa3-8726-1afde26a9bb8",
+    "contactInformation": {
+      "userId": "20d58544-209d-4fa3-8726-1afde26a9bb8",
+      "firstName": "",
+      "lastName": "",
+      "address": "",
+      "email": "STVixonAR0911@hrblock.testinator.com",
+      "phone": ""
+    },
+    "filingStatus": "",
+    "incomeForms": [],
+    "adjustedGrossIncome": 0,
+    "signed7216": false,
+    "summary": "The user with TaxReturnGuid 20d58544-209d-4fa3-8726-1afde26a9bb8 and email STVixonAR0911@hrblock.testinator.com appears to have started a US1040 tax return for the 2024 tax year. There is no available data for income forms, AGI, or address information. The user has likely paid for the product, and some standard consents may be set, but no confirmed signing of form 7216.",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "b579a51a-8a9f-4827-81c0-f1b334ffe138",
+    "contactInformation": {
+      "userId": "b579a51a-8a9f-4827-81c0-f1b334ffe138",
+      "firstName": "ARNonStripText",
+      "lastName": "Return",
+      "address": "123 MAIN STREET, Little Rock, AR 72203",
+      "email": "ARNonStripText@hrblock.testinator.com",
+      "phone": "7986868696"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "b579a51a-8a9f-4827-81c0-f1b334ffe138",
+        "formType": "W-2",
+        "incomeSource": "AR Wages",
+        "incomeAmount": 55000
+      }
+    ],
+    "adjustedGrossIncome": 55000,
+    "signed7216": false,
+    "summary": "The primary filer, ARNonStripText Return, and spouse LUCILLE BALLOON, filed their 2025 federal tax return jointly from Little Rock, Arkansas. The primary source of income is a single W-2 for $55,000 in wages from \u0027AR Wages\u0027, with total AGI also at $55,000. The couple used H\u0026R Block\u0027s online product (tax type OPP) and have paid for the product. Both are U.S. citizens, ages 33 and 25. Their mailing address is 123 MAIN STREET, Little Rock, AR 72203, and preferred contact information includes email (ARNonStripText@hrblock.testinator.com) and phone (7986868696). They did not sign form 7216 (consent to disclose).",
+    "taxType": "OPP",
+    "hasPaid": true
+  },
+  {
+    "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+    "contactInformation": {
+      "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+      "firstName": "MATTHEW",
+      "lastName": "WACONDUCTORONE",
+      "address": "25 RAIL WAY, Seattle, WA 98101",
+      "email": "txoFY24-FD-Conductor3@hrblock.testinator.com",
+      "phone": "3005551212"
+    },
+    "filingStatus": "MarriedFilingJointly",
+    "incomeForms": [
+      {
+        "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+        "formType": "W-2",
+        "incomeSource": "SANTA FE RAILROAD",
+        "incomeAmount": 9265
+      },
+      {
+        "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+        "formType": "W-2",
+        "incomeSource": "ROCKAWAY",
+        "incomeAmount": 3650
+      },
+      {
+        "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+        "formType": "W-2",
+        "incomeSource": "US GOV",
+        "incomeAmount": 3656
+      },
+      {
+        "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+        "formType": "W-2",
+        "incomeSource": "SANTA FE RAILROAD",
+        "incomeAmount": 1000
+      },
+      {
+        "userId": "f002b9d0-b0d0-4595-a979-28624ccc0664",
+        "formType": "Schedule C",
+        "incomeSource": "REBECCA FDCONDUCTOR",
+        "incomeAmount": -350
+      }
+    ],
+    "adjustedGrossIncome": 14505,
+    "signed7216": false,
+    "summary": "MATTHEW WACONDUCTORONE and REBECCA WACONDUCTOR filed a Married Filing Jointly 1040 tax return for 2024. Their reported address is 25 RAIL WAY, Seattle, WA 98101. Matthew is the taxpayer (email: txoFY24-FD-Conductor3@hrblock.testinator.com, phone: 3005551212) and his spouse Rebecca is listed as a performer. The household includes two claimed dependents and a nondependent child, with a total AGI of $14,505. Primary income was from four W-2 jobs (SANTA FE RAILROAD, ROCKAWAY, US GOV) and Schedule C business activity (part-time performer work) that reported a net business loss. They itemized deductions, had employment-related business expenses, and qualified for the Earned Income Tax Credit and Additional Child Tax Credit. The taxpayer signed and e-filed the return. Consent to disclose information under IRS 7216 is not given. The users have paid for their product and used product SKU: SEP. The return is for Federal 1040 and the WA Working Families Tax Credit was also started.",
+    "taxType": "TCD",
+    "hasPaid": true
+  },
+  {
+    "userId": "8067da7e-088a-43af-a6ba-ae7766b8d081",
+    "contactInformation": {
+      "userId": "8067da7e-088a-43af-a6ba-ae7766b8d081",
+      "firstName": "Home",
+      "lastName": "Buyer",
+      "address": "132 Turner Ave, Irving, TX 75014",
+      "email": "TY25_UserStory4487194_602@hrblock.testinator.com",
+      "phone": "8165551212"
+    },
+    "filingStatus": "Single",
+    "incomeForms": [
+      {
+        "userId": "8067da7e-088a-43af-a6ba-ae7766b8d081",
+        "formType": "W-2",
+        "incomeSource": "Dallas Schools",
+        "incomeAmount": 50000
+      }
+    ],
+    "adjustedGrossIncome": 50000,
+    "signed7216": false,
+    "summary": "Home Buyer, a single filer aged 37 residing at 132 Turner Ave, Irving, TX 75014, filed taxes for the 2025 year with a total income and AGI of $50,000. The primary source of income was from W-2 wages at Dallas Schools. The taxpayer used the standard deduction and has no spouse or dependents. The return is for a paid product (tax type OPP), and 7216 consent was not signed.",
+    "taxType": "OPP",
+    "hasPaid": true
+  }
+]

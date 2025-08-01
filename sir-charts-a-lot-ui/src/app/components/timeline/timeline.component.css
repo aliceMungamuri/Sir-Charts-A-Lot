@@ -1,0 +1,78 @@
+.timeline-container {
+  transition: all 0.3s ease;
+}
+
+.timeline-content {
+  transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.timeline-expanded {
+  max-height: 1000px;
+  opacity: 1;
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.timeline-collapsed {
+  max-height: 0;
+  opacity: 0;
+}
+
+.timeline-event-enter {
+  animation: slideIn 0.3s ease-out;
+}
+
+/* Ensure consistent spacing for timeline events */
+.timeline-event {
+  padding: 0.5rem 0;
+}
+
+/* Ensure bullet points align properly */
+.timeline-details {
+  margin-left: 1rem;
+}
+
+.timeline-detail-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Shimmer animation for thinking text */
+.shimmer-text {
+  background: linear-gradient(
+    90deg,
+    #374151 0%,
+    #6b7280 20%,
+    #9ca3af 40%,
+    #6b7280 60%,
+    #374151 80%,
+    #374151 100%
+  );
+  background-size: 200% 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 2s infinite linear;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}

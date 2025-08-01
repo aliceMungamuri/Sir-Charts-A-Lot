@@ -1,0 +1,155 @@
+<div class="fixed inset-0 flex bg-cream">
+  <!-- Sidebar -->
+  <aside class="w-sidebar bg-white border-r border-gray-200 flex flex-col h-full">
+    <!-- Logo and Title -->
+    <a routerLink="/home" class="px-4 py-5 flex items-center gap-2 hover:bg-gray-50 transition-colors">
+      <span class="text-2xl">📊</span>
+      <h1 class="text-lg font-semibold text-gray-900">Sir Charts-a-lot</h1>
+    </a>
+    
+    <!-- Navigation -->
+    <nav class="px-3 py-2">
+      <a routerLink="/home" class="flex items-center gap-3 px-3 py-2 mb-1 rounded-lg text-gray-700 hover:bg-gray-100">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path>
+        </svg>
+        <span class="text-sm font-medium">Assistant</span>
+      </a>
+      
+      <a routerLink="/my-collections" class="flex items-center gap-3 px-3 py-2 mb-1 rounded-lg text-gray-700 hover:bg-gray-100">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
+        </svg>
+        <span class="text-sm font-medium">My collections</span>
+      </a>
+      
+      <a routerLink="/starred" class="flex items-center gap-3 px-3 py-2 rounded-lg bg-primary-dark text-white">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path>
+        </svg>
+        <span class="text-sm font-medium">Starred</span>
+      </a>
+    </nav>
+    
+    <!-- Spacer -->
+    <div class="flex-1"></div>
+  </aside>
+
+  <!-- Main Content -->
+  <div class="flex-1 flex flex-col h-full">
+    <!-- Header Bar -->
+    <div class="bg-white border-b border-gray-200 px-8 py-4 flex items-center justify-between">
+      <div class="flex items-center gap-4">
+        <button class="flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-300 hover:bg-gray-50 transition-colors">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+          </svg>
+          <span class="text-sm font-medium">History</span>
+        </button>
+      </div>
+      
+      <div class="flex items-center gap-4">
+        <!-- View Toggle -->
+        <div class="flex items-center gap-1 bg-gray-100 rounded-lg p-1">
+          <button
+            (click)="toggleView('grid')"
+            [ngClass]="viewMode === 'grid' ? 'bg-primary text-white' : 'text-gray-600'"
+            class="px-3 py-1.5 rounded-md transition-colors flex items-center gap-1"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"></path>
+            </svg>
+            <span class="text-sm font-medium">Grid</span>
+          </button>
+          <button
+            (click)="toggleView('list')"
+            [ngClass]="viewMode === 'list' ? 'bg-primary text-white' : 'text-gray-600'"
+            class="px-3 py-1.5 rounded-md transition-colors flex items-center gap-1"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+            <span class="text-sm font-medium">List</span>
+          </button>
+        </div>
+        
+        <div class="w-10 h-10 rounded-full bg-primary-dark text-white flex items-center justify-center font-semibold">
+          K
+        </div>
+      </div>
+    </div>
+
+    <!-- Starred Content -->
+    <div class="flex-1 overflow-y-auto px-8 py-8">
+      <!-- Header -->
+      <div class="text-center mb-8">
+        <h2 class="text-lg text-gray-600 mb-2">See the data, BE the data!</h2>
+        <h1 class="text-3xl font-semibold text-gray-900">Starred</h1>
+      </div>
+
+      <!-- Charts Grid/List -->
+      <div [ngClass]="viewMode === 'grid' ? 'grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6' : 'space-y-4'" class="max-w-7xl mx-auto">
+        <div
+          *ngFor="let chart of starredCharts"
+          class="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition-shadow"
+        >
+          <!-- Chart Header -->
+          <div class="p-4 border-b border-gray-100">
+            <div class="flex items-start justify-between mb-2">
+              <div class="flex-1">
+                <h3 class="font-medium text-gray-900 mb-1">{{ chart.query }}</h3>
+                <p class="text-sm text-gray-500">{{ chart.date }}</p>
+              </div>
+              <div class="flex items-center gap-1">
+                <button
+                  (click)="unstartChart($event, chart)"
+                  class="p-1 hover:bg-gray-100 rounded transition-colors"
+                  title="Unstar"
+                >
+                  <svg class="w-5 h-5 text-yellow-500 fill-current" viewBox="0 0 24 24">
+                    <path d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path>
+                  </svg>
+                </button>
+                <button
+                  (click)="showMoreOptions($event, chart)"
+                  class="p-1 hover:bg-gray-100 rounded transition-colors"
+                >
+                  <svg class="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"></path>
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Chart Content -->
+          <div class="p-4">
+            <apx-chart
+              [series]="chart.chartOptions.series || []"
+              [chart]="chart.chartOptions.chart || { type: 'bar', height: 300 }"
+              [xaxis]="chart.chartOptions.xaxis"
+              [yaxis]="chart.chartOptions.yaxis"
+              [title]="chart.chartOptions.title"
+              [labels]="chart.chartOptions.labels"
+              [dataLabels]="chart.chartOptions.dataLabels"
+              [legend]="chart.chartOptions.legend"
+              [tooltip]="chart.chartOptions.tooltip"
+              [plotOptions]="chart.chartOptions.plotOptions"
+              [grid]="chart.chartOptions.grid"
+            ></apx-chart>
+          </div>
+          
+          <!-- Chart Footer -->
+          <div class="px-4 pb-4">
+            <button
+              (click)="createVisualRepresentation(chart)"
+              class="w-full px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary-light transition-colors text-sm font-medium"
+            >
+              Create visual representation
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
